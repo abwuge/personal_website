@@ -1,0 +1,3 @@
+---
+template: template/redirect.html
+---

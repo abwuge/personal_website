@@ -1,6 +1,7 @@
 site_name: Hanxun Wu
 theme:
   name: material
+  custom_dir: overrides
 
 extra:
   alternate:
@@ -8,5 +9,5 @@ extra:
       link: /zh/
       lang: zh
     - name: English
-      link: /en/ 
+      link: /en/
       lang: en
