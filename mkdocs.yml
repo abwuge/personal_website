@@ -1,13 +1,17 @@
 site_name: Hanxun Wu
+
 theme:
   name: material
-  custom_dir: overrides
 
-extra:
-  alternate:
-    - name: 中文
-      link: /zh/
-      lang: zh
-    - name: English
-      link: /en/
-      lang: en
+plugins:
+  - search
+  - i18n:
+      locales:
+        - name: 中文
+          link: /zh/
+          lang: zh
+          site_name: 吴函迅食用指南
+        - name: English
+          link: /en/
+          lang: en
+          site_name: Hanxun Wu's Website

@@ -1,1 +1,3 @@
 mkdocs-material
+mkdocs-static-i18n
+git+https://github.com/abwuge/mkdocs-material-i18n.git
