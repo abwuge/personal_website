@@ -1,7 +1,31 @@
 site_name: Hanxun Wu
+site_url: https://www.hxwu.top
 
 theme:
   name: material
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - header.autohide
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+copyright: Copyright &copy; 2025 Hanxun Wu
+
+repo_url: https://github.com/abwuge/personal_website
+repo_name: abwuge/personal_website
 
 plugins:
   - search
