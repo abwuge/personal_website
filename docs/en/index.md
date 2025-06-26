@@ -8,4 +8,4 @@ This is a static website built with MkDocs, thanks to:
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) for the theme and styles
 - [GitHub](https://github.com) for code hosting and website services
 
-Thank you for visiting and supporting! You can find more information through the navigation bar or search function at the top of the page.
+Thank you for visiting and supporting! You can find more information through the navigation bar at the top (desktop) or in the top left corner (mobile), or use the search function at the top of the page.

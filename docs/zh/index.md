@@ -1,4 +1,4 @@
-# 你好
+# 您好
 
 欢迎来到吴函迅的个人网站 <https://www.hxwu.top>
 
@@ -8,4 +8,4 @@
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 提供的主题和样式
 - [GitHub](https://github.com) 提供的代码托管和网站服务
 
-感谢您的访问和支持！您可通过页面上方的导航栏或搜索功能找到更多信息。
+感谢您的访问和支持！您可通过页面上方（桌面端）或左上角（移动端）的导航栏，或页面上方的搜索功能找到更多信息。
