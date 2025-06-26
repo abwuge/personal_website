@@ -9,8 +9,6 @@ theme:
     - content.code.copy
     - header.autohide
     - navigation.indexes
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.prune
     - navigation.sections
     - navigation.tabs
