@@ -1,7 +1,9 @@
-# Personal Information
+#
 
-- Name: Hanxun Wu
-- Gender: Male
-- Date of Birth: April 19, 2003
-- Place of Origin (China): Yanjiang District, Ziyang City, Sichuan Province
-- Current Residence: Emeishan City, Leshan City, Sichuan Province, China
+A solitary warrior-poet,
+
+guarding the soul's sanctuary amid reality's rocky reefs,
+
+with burning idealism as their lantern.
+
+<p align="right">—— DeepSeek</p>
