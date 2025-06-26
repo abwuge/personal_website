@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Hello
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to Hanxun Wu's personal website <https://www.hxwu.top>
 
-## Commands
+This is a static website built with MkDocs, thanks to:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [MkDocs](https://www.mkdocs.org/) for the documentation generation tool
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) for the theme and styles
+- [GitHub](https://github.com) for code hosting and website services
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Thank you for visiting and supporting! You can find more information through the navigation bar or search function at the top of the page.

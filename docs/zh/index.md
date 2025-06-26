@@ -1,17 +1,11 @@
-# 欢迎使用 MkDocs
+# 你好
 
-完整文档请访问 [mkdocs.org](https://www.mkdocs.org)。
+欢迎来到吴函迅的个人网站 <https://www.hxwu.top>
 
-## 命令
+这是一个使用 MkDocs 构建的静态网站，感谢：
 
-* `mkdocs new [dir-name]` - 创建一个新项目。
-* `mkdocs serve` - 启动实时重载的文档服务器。
-* `mkdocs build` - 构建文档站点。
-* `mkdocs -h` - 打印帮助信息并退出。
+- [MkDocs](https://www.mkdocs.org/) 提供的文档生成工具
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 提供的主题和样式
+- [GitHub](https://github.com) 提供的代码托管和网站服务
 
-## 项目结构
-
-    mkdocs.yml    # 配置文件。
-    docs/
-        index.md  # 文档首页。
-        ...       # 其他 markdown 页面、图片和其他文件。
+感谢您的访问和支持！您可通过页面上方的导航栏或搜索功能找到更多信息。

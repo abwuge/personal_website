@@ -36,10 +36,12 @@ plugins:
           lang: zh
           site_name: 吴函迅食用指南
           nav:
-            - Home: index.md
+            - 我:
+              - me: index.md
         - name: English
           link: /en/
           lang: en
           site_name: Hanxun Wu's Website
           nav:
-            - Home: index.md
+            - Me:
+              - me: index.md
