@@ -7,6 +7,9 @@
 
 <a href="https://www.hxwu.top" target="_blank">www.hxwu.top</a>
 
+等待ICP备案中，现已暂停解析。
+Waiting for ICP registration, now suspended resolution.
+
 </div>
 
 感谢[Material for MkDocs](https://github.com/squidfunk/mkdocs-material)。
