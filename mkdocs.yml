@@ -1,8 +1,14 @@
 site_name: Hanxun Wu
 site_url: https://www.hxwu.top
 
+copyright: Copyright &copy; 2025 Hanxun Wu
+
+repo_url: https://github.com/abwuge/personal_website
+repo_name: abwuge/personal_website
+
 theme:
   name: material
+  custom_dir: overrides
   features:
     - content.action.edit
     - content.action.view
@@ -20,10 +26,20 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-copyright: Copyright &copy; 2025 Hanxun Wu
-
-repo_url: https://github.com/abwuge/personal_website
-repo_name: abwuge/personal_website
+extra:
+  social:
+    - name: GitHub | abwuge
+      icon: fontawesome/brands/github
+      link: https://github.com/abwuge
+    - name: QQ | AAA太阳能维修
+      icon: fontawesome/brands/qq
+      link: https://qm.qq.com/q/9K8KOH8IP6 # The link was extracted by decoding a QQ 'Add Friend' QR code.
+    - name: WeChat | AAA太阳能维修
+      icon: simple/wechat
+      link: /wechat/
+    - name: Email | abwuge
+      icon: fontawesome/solid/envelope
+      link: mailto:abwuge@163.com
 
 plugins:
   - search

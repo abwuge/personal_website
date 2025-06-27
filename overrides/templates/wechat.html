@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <script>
+      window.addEventListener("load", function () {
+        const userChoice = confirm("WeChat ID: abwuge");
+
+        if (userChoice) {
+          copyWechatId("abwuge");
+
+          let protocolHandled = false;
+
+          const handleFocus = function () {
+            if (!protocolHandled) {
+              protocolHandled = true;
+              window.removeEventListener("focus", handleFocus);
+              window.close();
+            }
+          };
+
+          window.location.href = "weixin://";
+          setTimeout(() => {
+            window.addEventListener("focus", handleFocus);
+          }, 500);
+        } else {
+          window.close();
+        }
+      });
+
+      function copyWechatId(wechatId) {
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(wechatId).then(
+            function () {},
+            function () {
+              fallbackCopyTextToClipboard(wechatId);
+            }
+          );
+        } else {
+          fallbackCopyTextToClipboard(wechatId);
+        }
+      }
+
+      function fallbackCopyTextToClipboard(text) {
+        const textArea = document.createElement("textarea");
+        textArea.value = text;
+        textArea.style.position = "fixed";
+        textArea.style.left = "-999999px";
+        textArea.style.top = "-999999px";
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+
+        try {
+          document.execCommand("copy");
+        } catch (err) {}
+
+        document.body.removeChild(textArea);
+      }
+    </script>
+  </body>
+</html>
