@@ -36,7 +36,7 @@ extra:
       link: https://qm.qq.com/q/9K8KOH8IP6 # The link was extracted by decoding a QQ 'Add Friend' QR code.
     - name: WeChat | AAA太阳能维修
       icon: simple/wechat
-      link: /wechat/
+      link: /wechat/ # 🐉nmsl
     - name: Email | abwuge
       icon: fontawesome/solid/envelope
       link: mailto:abwuge@163.com
