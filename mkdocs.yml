@@ -53,10 +53,6 @@ plugins:
             - 我:
                 - me/index.md
                 - me/personal_information.md
-                - me/basic_information.md
-                - me/educational_background.md
-                - me/contact_information.md
-                - me/other_information.md
         - name: English
           link: /en/
           lang: en
@@ -65,7 +61,3 @@ plugins:
             - Me:
                 - me/index.md
                 - me/personal_information.md
-                - me/basic_information.md
-                - me/educational_background.md
-                - me/contact_information.md
-                - me/other_information.md

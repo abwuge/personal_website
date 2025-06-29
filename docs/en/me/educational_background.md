@@ -1,3 +1,11 @@
+---
+title: Educational Background
+hide:
+  - navigation
+---
+
+[Back](personal_information.md)
+
 # Educational Background
 
 ## Xiaoyuan Town Central Primary School, Yanjiang District, Ziyang City, Sichuan Province
@@ -29,3 +37,5 @@ During high school, I read many science fiction novels, mostly "hard" science fi
 I'm not a fan of traditional classroom learning and basically rely on cramming before final exams. Fortunately, with the teachers' care, I never failed any courses during university.
 
 However, I'm passionate about self-learning and practice. Through self-study, I've mastered multiple programming languages and have the ability to independently develop software scripts as well as design and solder circuits.
+
+[Back](personal_information.md)

@@ -1,3 +1,11 @@
+---
+title: Basic Information
+hide:
+  - navigation
+---
+
+[Back](personal_information.md)
+
 # Basic Information
 
 ## Name: Hanxun Wu (吴函迅)
@@ -27,3 +35,5 @@ My mother said that when I was born, my weight was "one scale zero and half jin"
 ## Place of Origin (China): Yanjiang District, Ziyang City, Sichuan Province
 
 My family is from rural areas. My father, mother, paternal grandparents, and maternal grandparents are all farmers. Tracing back further, it's mostly the same - perhaps we've been farming for generations. After all, our family doesn't have any particular heirlooms.
+
+[Back](personal_information.md)

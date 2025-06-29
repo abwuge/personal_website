@@ -1,3 +1,11 @@
+---
+title: Other Information
+hide:
+  - navigation
+---
+
+[Back](personal_information.md)
+
 # Other Information
 
 ## Online Names / Usernames
@@ -28,3 +36,5 @@ This name has some variants:
 > Past the age of enjoying being called "Ge" (big brother/boss).
 
 For newly registered accounts or usernames, I generally use my name's English abbreviation or full English name.
+
+[Back](personal_information.md)
