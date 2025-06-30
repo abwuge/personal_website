@@ -53,6 +53,7 @@ plugins:
             - 我:
                 - me/index.md
                 - me/personal_information.md
+                - me/experience.md
         - name: English
           link: /en/
           lang: en
@@ -61,3 +62,4 @@ plugins:
             - Me:
                 - me/index.md
                 - me/personal_information.md
+                - me/experience.md
