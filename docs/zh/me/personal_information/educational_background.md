@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[返回](personal_information.md)
+[返回](../personal_information.md)
 
 # 教育经历
 
@@ -38,4 +38,4 @@ hide:
 
 但我热衷于自学与实践。通过自学，我掌握了多种编程语言，具备独立开发软件脚本以及设计、焊接电路等能力。
 
-[返回](personal_information.md)
+[返回](../personal_information.md)

@@ -7,7 +7,7 @@
 - 出生日期：2003年4月19日
 - 籍贯（中国）：四川省资阳市雁江区
 
-[查看更多](basic_information.md)
+[查看更多](personal_information/basic_information.md)
 
 ## 教育经历
 
@@ -17,17 +17,17 @@
 - 2009年9月 - 2015年6月：四川省资阳市雁江区小院镇中心小学
 - 2003年4月 - 2009年8月：Σヽ(ﾟД ﾟ; )ﾉ 我总不能把幼儿园也写上来吧？
 
-[查看更多](educational_background.md)
+[查看更多](personal_information/educational_background.md)
 
 ## 联系方式
 - QQ：2868818982
 - 微信：abwuge
 - 邮箱：abwuge@163.com
 
-[查看更多](contact_information.md)
+[查看更多](personal_information/contact_information.md)
 
 ## 当前信息（更新于2025年7月）
 
 - 居住地：中国四川省乐山市峨眉山市
 
-## [其他信息](other_information.md)
+## [其他信息](personal_information/other_information.md)

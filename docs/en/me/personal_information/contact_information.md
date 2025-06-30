@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[Back](personal_information.md)
+[Back](../personal_information.md)
 
 # Contact Information
 
@@ -22,4 +22,4 @@ WeChat is gradually replacing QQ as my main social media tool. But I still don't
 
 My email response speed is usually slower than the above two instant messaging tools.
 
-[Back](personal_information.md)
+[Back](../personal_information.md)

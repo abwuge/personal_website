@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[返回](personal_information.md)
+[返回](../personal_information.md)
 
 # 其他信息
 
@@ -37,4 +37,4 @@ hide:
 
 我新注册的账号或网名一般使用名字英文缩写或英文全名。
 
-[返回](personal_information.md)
+[返回](../personal_information.md)

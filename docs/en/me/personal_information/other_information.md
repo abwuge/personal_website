@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[Back](personal_information.md)
+[Back](../personal_information.md)
 
 # Other Information
 
@@ -37,4 +37,4 @@ This name has some variants:
 
 For newly registered accounts or usernames, I generally use my name's English abbreviation or full English name.
 
-[Back](personal_information.md)
+[Back](../personal_information.md)

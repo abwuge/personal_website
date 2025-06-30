@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[Back](personal_information.md)
+[Back](../personal_information.md)
 
 # Educational Background
 
@@ -38,4 +38,4 @@ I'm not a fan of traditional classroom learning and basically rely on cramming b
 
 However, I'm passionate about self-learning and practice. Through self-study, I've mastered multiple programming languages and have the ability to independently develop software scripts as well as design and solder circuits.
 
-[Back](personal_information.md)
+[Back](../personal_information.md)

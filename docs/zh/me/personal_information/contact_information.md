@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[返回](personal_information.md)
+[返回](../personal_information.md)
 
 # 联系方式
 
@@ -22,4 +22,4 @@ hide:
 
 我的邮箱回复速度通常慢于以上两者即时通讯工具。
 
-[返回](personal_information.md)
+[返回](../personal_information.md)

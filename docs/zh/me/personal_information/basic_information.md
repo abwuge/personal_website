@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[返回](personal_information.md)
+[返回](../personal_information.md)
 
 # 基本信息
 
@@ -36,4 +36,4 @@ hide:
 
 我家是农村的。爸爸妈妈、爷爷奶奶、外公外婆都是农民，再往上追溯也大抵如此，也许是世代务农吧。毕竟家里也没有什么特别的传家宝。
 
-[返回](personal_information.md)
+[返回](../personal_information.md)
