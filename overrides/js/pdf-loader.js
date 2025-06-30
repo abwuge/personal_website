@@ -32,11 +32,12 @@ function showPdf(containerId, pdfSrc, language) {
     
     container.innerHTML = `
         <div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
-            <iframe src="${pdfSrc}" 
-                    style="width: 80%; aspect-ratio: 1 / 1.414; border: 1px solid #ccc;" 
-                    type="application/pdf">
+            <embed src="${pdfSrc}" 
+                   type="application/pdf" 
+                   style="width: 80%; aspect-ratio: 1 / 1.414; border: 1px solid #ccc;" />
+            <noscript>
                 <p>${lang.downloadText} <a href="${pdfSrc}">${lang.downloadLink}</a>.</p>
-            </iframe>
+            </noscript>
         </div>
     `;
 }
