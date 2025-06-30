@@ -18,8 +18,9 @@ hide:
      data-pdf-loader
      data-pdf-src="../academic_transcript.pdf"
      data-language="zh"
-     data-prompt-text="本科成绩单文件较大(PDF格式)，请确认是否加载？" 
-     data-button-text="查看成绩单">
+     data-prompt-text="含签名的成绩单文件较大，请选择操作方式：" 
+     data-preview-button-text="预览无签名版本"
+     data-download-button-text="下载签名版本">
 </div>
 
 [返回](../personal_information.md)
