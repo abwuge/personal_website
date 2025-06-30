@@ -30,14 +30,16 @@ function showPdf(containerId, pdfSrc, language) {
     const container = document.getElementById(containerId);
     const lang = langConfig[language];
     
+    const absolutePdfSrc = new URL(pdfSrc, window.location.href).href;
+    const viewerUrl = `https://mozilla.github.io/pdf.js/web/viewer.html?file=${encodeURIComponent(absolutePdfSrc)}`;
+    
     container.innerHTML = `
         <div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
-            <embed src="${pdfSrc}" 
-                   type="application/pdf" 
-                   style="width: 80%; aspect-ratio: 1 / 1.414; border: 1px solid #ccc;" />
-            <noscript>
+            <iframe src="${viewerUrl}" 
+                    style="width: 80%; aspect-ratio: 1 / 1.414; border: 1px solid #ccc;" 
+                    frameborder="0">
                 <p>${lang.downloadText} <a href="${pdfSrc}">${lang.downloadLink}</a>.</p>
-            </noscript>
+            </iframe>
         </div>
     `;
 }
