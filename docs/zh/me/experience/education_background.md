@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-[返回](../personal_information.md)
+[返回](../experience.md)
 
 # 教育背景
 
@@ -23,4 +23,4 @@ hide:
      data-download-button-text="下载签名版本">
 </div>
 
-[返回](../personal_information.md)
+[返回](../experience.md)
