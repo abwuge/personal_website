@@ -1,13 +1,24 @@
 # 个人信息
 
-## 基本信息
+<div style="display: flex; align-items: flex-start;">
+<div style="flex: 1;">
 
-- 姓名：吴函迅
-- 性别：男
-- 出生日期：2003年4月19日
-- 籍贯（中国）：四川省资阳市雁江区
+<h2 style="margin-top: 0;">基本信息</h2>
 
-[查看更多](personal_information/basic_information.md)
+<ul style="margin: 0.5em 0; padding-left: 1.5em;">
+<li>姓名：吴函迅</li>
+<li>性别：男</li>
+<li>出生日期：2003年4月19日</li>
+<li>籍贯（中国）：四川省资阳市雁江区</li>
+</ul>
+
+<p style="margin-bottom: 0;"><a href="personal_information/basic_information.md">查看更多</a></p>
+
+</div>
+<div style="flex: 0 0 auto; margin-left: 20px; margin-right: 20px;">
+<img src="../../../assets/passport_photo.jpg" alt="个人照片" style="width: 128px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
+</div>
 
 ## 教育经历
 

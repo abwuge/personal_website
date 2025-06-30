@@ -1,13 +1,24 @@
 # Personal Information
 
-## Basic Information
+<div style="display: flex; align-items: flex-start;">
+<div style="flex: 1;">
 
-- Name: Hanxun Wu
-- Gender: Male
-- Date of Birth: April 19, 2003
-- Place of Origin (China): Yanjiang District, Ziyang City, Sichuan Province
+<h2 style="margin-top: 0;">Basic Information</h2>
 
-[Learn more](personal_information/basic_information.md)
+<ul style="margin: 0.5em 0; padding-left: 1.5em;">
+<li>Name: Hanxun Wu</li>
+<li>Gender: Male</li>
+<li>Date of Birth: April 19, 2003</li>
+<li>Place of Origin (China): Yanjiang District, Ziyang City, Sichuan Province</li>
+</ul>
+
+<p style="margin-bottom: 0;"><a href="personal_information/basic_information.md">Learn more</a></p>
+
+</div>
+<div style="flex: 0 0 auto; margin-left: 20px; margin-right: 20px;">
+<img src="../../../assets/passport_photo.jpg" alt="Personal Photo" style="width: 128px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
+</div>
 
 ## Education Background
 
