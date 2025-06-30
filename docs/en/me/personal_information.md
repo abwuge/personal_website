@@ -5,7 +5,7 @@
 
 <h2 style="margin-top: 0;">Basic Information</h2>
 
-<ul style="margin: 0.5em 0; padding-left: 1.5em;">
+<ul style="margin: 0.5em 0; padding-left: 0.5em;">
 <li>Name: Hanxun Wu</li>
 <li>Gender: Male</li>
 <li>Date of Birth: April 19, 2003</li>

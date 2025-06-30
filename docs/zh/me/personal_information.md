@@ -5,7 +5,7 @@
 
 <h2 style="margin-top: 0;">基本信息</h2>
 
-<ul style="margin: 0.5em 0; padding-left: 1.5em;">
+<ul style="margin: 0.5em 0; padding-left: 0.5em;">
 <li>姓名：吴函迅</li>
 <li>性别：男</li>
 <li>出生日期：2003年4月19日</li>
