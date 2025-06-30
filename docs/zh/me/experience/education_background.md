@@ -16,7 +16,7 @@ hide:
 
 <div id="transcript-container" 
      data-pdf-loader
-     data-pdf-src="../吴函迅_本科生中文成绩单_2025-06-30.pdf"
+     data-pdf-src="../academic_transcript.pdf"
      data-language="zh"
      data-prompt-text="本科成绩单文件较大(PDF格式)，请确认是否加载？" 
      data-button-text="查看成绩单">
