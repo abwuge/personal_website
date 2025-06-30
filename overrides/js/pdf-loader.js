@@ -17,11 +17,11 @@ function loadPdf(containerId, pdfSrc, language, promptText, previewButtonText, d
 
     container.innerHTML = `
         <div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
-            <div style="width: 80%; text-align: center; padding: 20px; border: 2px dashed #ccc; border-radius: 8px; background-color: #f9f9f9;">
-                <p style="margin: 0 0 15px 0; color: #666; font-size: 14px;">${promptText}</p>
+            <div style="width: 80%; text-align: center; padding: 20px; border: 2px dashed var(--md-default-fg-color--lighter, #ccc); border-radius: 8px; background-color: transparent;">
+                <p style="margin: 0 0 15px 0; color: var(--md-default-fg-color--light, #666); font-size: 14px;">${promptText}</p>
                 <div style="display: flex; gap: 15px; justify-content: center;">
                     <button onclick="showPdf('${containerId}', '${previewPdfSrc}', '${language}')" 
-                            style="padding: 10px 20px; background-color: #1976d2; color: white; border: none; border-radius: 4px; cursor: pointer;">
+                            style="padding: 10px 20px; background-color: var(--md-primary-fg-color, #1976d2); color: white; border: none; border-radius: 4px; cursor: pointer;">
                         ${previewButtonText}
                     </button>
                     <button onclick="downloadPdf('${pdfSrc}')" 
@@ -44,7 +44,7 @@ function showPdf(containerId, pdfSrc, language) {
     container.innerHTML = `
         <div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
             <iframe src="${viewerUrl}" 
-                    style="width: 80%; aspect-ratio: 1 / 1.414; border: 1px solid #ccc;" 
+                    style="width: 80%; aspect-ratio: 1 / 1.414; border: 1px solid var(--md-default-fg-color--lighter, #ccc);" 
                     frameborder="0">
                 <p>${lang.downloadText} <a href="${pdfSrc}">${lang.downloadLink}</a></p>
             </iframe>
