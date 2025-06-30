@@ -31,7 +31,7 @@ function showPdf(containerId, pdfSrc, language) {
     const lang = langConfig[language];
     
     const absolutePdfSrc = new URL(pdfSrc, window.location.href).href;
-    const viewerUrl = `https://mozilla.github.io/pdf.js/web/viewer.html?file=${encodeURIComponent(absolutePdfSrc)}`;
+    const viewerUrl = `/pdfjs-5.3.31-dist/web/viewer.html?file=${encodeURIComponent(absolutePdfSrc)}`;
     
     container.innerHTML = `
         <div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
