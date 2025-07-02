@@ -30,7 +30,7 @@ hide:
 <span title="怎么是老规矩？因为我是时间倒叙写的啦~">老规矩</span>，来张证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/CUYMC.png" alt="志愿者证书" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/social_work/CUYMC.jpeg" alt="志愿者证书" style="width: 61.8%; height: auto;">
 </div>
 
 ## 世界科幻大会
@@ -42,7 +42,7 @@ hide:
 作为后备，我也拿到了证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/Worldcon.png" alt="志愿者证书" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/social_work/Worldcon.jpeg" alt="志愿者证书" style="width: auto; height: 61.8vh;">
 </div>
 
 ## 学生会（物理科学与技术学院）
@@ -65,7 +65,7 @@ hide:
 不知道放点儿啥，来张聘书吧：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/contract.png" alt="聘书" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/social_work/contract.jpeg" alt="聘书" style="width: auto; height: 61.8vh;">
 <br>
 <del>等我什么时候有空再裁剪一下，或者上传一张更好的吧</del>
 </div>
@@ -79,7 +79,7 @@ hide:
 来一张实践队的合照：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/group_photo.png" alt="实践队合照" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/social_work/group_photo.jpeg" alt="实践队合照" style="width: 61.8%; height: auto;">
 </div>
 
 我那时候看起来真稚嫩。
