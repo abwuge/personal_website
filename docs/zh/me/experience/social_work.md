@@ -30,8 +30,7 @@ hide:
 <span title="怎么是老规矩？因为我是时间倒叙写的啦~">老规矩</span>，来张证书：
 
 <div style="text-align: center;">
-<!-- <img src="../../../../assets/me/experience/social_work/Worldcon.png" alt="聘书" style="width: auto; height: 61.8vh;"> -->
-你先别急，我还没上传。
+<img src="../../../../assets/me/experience/social_work/CUYMC.png" alt="志愿者证书" style="width: 61.8%; height: auto;">
 </div>
 
 ## 世界科幻大会
@@ -43,7 +42,7 @@ hide:
 作为后备，我也拿到了证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/Worldcon.png" alt="聘书" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/social_work/Worldcon.png" alt="志愿者证书" style="width: auto; height: 61.8vh;">
 </div>
 
 ## 学生会（物理科学与技术学院）
