@@ -15,19 +15,28 @@ function loadPdf(containerId, pdfSrc, language, promptText, previewButtonText, d
 
     const previewPdfSrc = pdfSrc.replace('.pdf', '_small.pdf');
 
+    let buttonsHtml = `
+        <button onclick="showPdf('${containerId}', '${previewPdfSrc}', '${language}')" 
+                style="padding: 10px 20px; background-color: var(--md-primary-fg-color, #1976d2); color: white; border: none; border-radius: 4px; cursor: pointer;">
+            ${previewButtonText}
+        </button>
+    `;
+    
+    if (downloadButtonText) {
+        buttonsHtml += `
+            <button onclick="downloadPdf('${pdfSrc}')" 
+                    style="padding: 10px 20px; background-color: #4caf50; color: white; border: none; border-radius: 4px; cursor: pointer;">
+                ${downloadButtonText}
+            </button>
+        `;
+    }
+
     container.innerHTML = `
         <div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
             <div style="width: 80%; text-align: center; padding: 20px; border: 2px dashed var(--md-default-fg-color--lighter, #ccc); border-radius: 8px; background-color: transparent;">
                 <p style="margin: 0 0 15px 0; color: var(--md-default-fg-color--light, #666); font-size: 14px;">${promptText}</p>
                 <div style="display: flex; gap: 15px; justify-content: center;">
-                    <button onclick="showPdf('${containerId}', '${previewPdfSrc}', '${language}')" 
-                            style="padding: 10px 20px; background-color: var(--md-primary-fg-color, #1976d2); color: white; border: none; border-radius: 4px; cursor: pointer;">
-                        ${previewButtonText}
-                    </button>
-                    <button onclick="downloadPdf('${pdfSrc}')" 
-                            style="padding: 10px 20px; background-color: #4caf50; color: white; border: none; border-radius: 4px; cursor: pointer;">
-                        ${downloadButtonText}
-                    </button>
+                    ${buttonsHtml}
                 </div>
             </div>
         </div>
@@ -69,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const previewButtonText = container.getAttribute('data-preview-button-text');
         const downloadButtonText = container.getAttribute('data-download-button-text');
         
-        if (pdfSrc && language && promptText && previewButtonText && downloadButtonText) {
+        if (pdfSrc && language && promptText && previewButtonText) {
             loadPdf(container.id, pdfSrc, language, promptText, previewButtonText, downloadButtonText);
         }
     });
