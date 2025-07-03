@@ -66,8 +66,6 @@ hide:
 
 <div style="text-align: center;">
 <img src="../../../../assets/me/experience/social_work/contract.jpeg" alt="聘书" style="width: auto; height: 61.8vh;">
-<br>
-<del>等我什么时候有空再裁剪一下，或者上传一张更好的吧</del>
 </div>
 
 ## 物理学院学生会赴四川省阿坝藏族羌族自治州汶川县映秀镇“喜迎二十大、永远跟党走、奋进新征程”主题实践队
@@ -94,5 +92,7 @@ hide:
 > - 组织委员（2021 - 2022 学年）
 
 我也没想到我竟然可以连任 4 年组织委员。
+
+任职证明倒有，但是是A4纸加盖院章，不好看，不爱放。
 
 [返回](../experience.md)
