@@ -164,9 +164,9 @@
 
 ### Physics Class 2021 - 05
 
--   Organization Committee Member (Academic Year 2024 - 2025)
--   Organization Committee Member (Academic Year 2023 - 2024)
--   Organization Committee Member (Academic Year 2022 - 2023)
--   Organization Committee Member (Academic Year 2021 - 2022)
+-   Class Committee Member in charge of organization (Academic Year 2024 - 2025)
+-   Class Committee Member in charge of organization (Academic Year 2023 - 2024)
+-   Class Committee Member in charge of organization (Academic Year 2022 - 2023)
+-   Class Committee Member in charge of organization (Academic Year 2021 - 2022)
 
 [Learn more](experience/social_work.md)
