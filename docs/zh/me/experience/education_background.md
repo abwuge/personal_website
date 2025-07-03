@@ -41,7 +41,7 @@ hide:
      data-pdf-loader
      data-pdf-src="../../../../assets/me/experience/education_background/certificate_of_bachelor_degree.pdf"
      data-language="zh"
-     data-prompt-text="点击预览学士学位证书PDF版本：" 
+     data-prompt-text="PDF文件较大，点击预览学士学位证书PDF版本：" 
      data-preview-button-text="预览学士学位证书">
 </div>
 
@@ -49,7 +49,7 @@ hide:
      data-pdf-loader
      data-pdf-src="../../../../assets/me/experience/education_background/undergraduate_diploma.pdf"
      data-language="zh"
-     data-prompt-text="点击预览本科毕业证书PDF版本：" 
+     data-prompt-text="PDF文件较大，点击预览本科毕业证书PDF版本：" 
      data-preview-button-text="预览本科毕业证书">
 </div>
 

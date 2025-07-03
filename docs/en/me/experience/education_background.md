@@ -41,7 +41,7 @@ PDF Certificates with Shell:
      data-pdf-loader
      data-pdf-src="../../../../assets/me/experience/education_background/certificate_of_bachelor_degree.pdf"
      data-language="en"
-     data-prompt-text="Click to preview Bachelor's Degree Certificate PDF version:" 
+     data-prompt-text="PDF file is large, click to preview Bachelor's Degree Certificate PDF version:" 
      data-preview-button-text="Preview Bachelor's Degree Certificate">
 </div>
 
@@ -49,7 +49,7 @@ PDF Certificates with Shell:
      data-pdf-loader
      data-pdf-src="../../../../assets/me/experience/education_background/undergraduate_diploma.pdf"
      data-language="en"
-     data-prompt-text="Click to preview Undergraduate Diploma PDF version:" 
+     data-prompt-text="PDF file is large, click to preview Undergraduate Diploma PDF version:" 
      data-preview-button-text="Preview Undergraduate Diploma">
 </div>
 
