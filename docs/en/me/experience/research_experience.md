@@ -46,6 +46,8 @@ hide:
 
 > Derived from IYPT 2022 problem: Strange Motion.
 
+In the diamagnetism research, besides using the optical lever principle to visualize magnetic field effects, I also innovatively modified a metal thermal expansion experimental apparatus (which was actually a Michelson interferometer), using the laser reflection from water itself to replace the original mirror reflection, and quantitatively analyzed the deformation of the water surface due to diamagnetism.
+
 ## December 2021 - June 2022: CUPT 2022
 
 ### Unsinkable Disk
