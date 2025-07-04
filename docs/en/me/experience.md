@@ -80,6 +80,8 @@
 
 > Lenticular lenses can be used to distort light and make objects disappear. Investigate how changing the properties of the lens and the geometry of the object affect the extent to which the object can be detected.
 
+[Learn more](experience/research_experience.md)
+
 ## Competitions and Honors
 
 ### Outstanding Graduate (Southwest Jiaotong University)

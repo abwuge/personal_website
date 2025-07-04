@@ -80,6 +80,8 @@
 
 > Lenticular lenses can be used to distort light and make objects disappear. Investigate how changing the properties of the lens and the geometry of the object affect the extent to which the object can be detected.（光栅透镜/双凸透镜可以用来扭曲光线并使物体消失，研究改变透镜的属性和物体的几何形状会如何影响物体被检测到的范围。）
 
+[查看更多](experience/research_experience.md)
+
 ## 竞赛荣誉
 
 ### 优秀毕业生（西南交通大学）
