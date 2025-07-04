@@ -116,7 +116,7 @@
 > Regional competition of the Chinese Undergraduate Physics Tournament in Southwest China.
 
 -   First Prize (7th Edition)
--   First Prize (6th Edition, as team leader)
+-   Second Prize (6th Edition, as team leader)
 
 ### Excellent Student Cadre
 
