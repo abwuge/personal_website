@@ -60,6 +60,15 @@ hide:
 
 > Sprinkle small floating particles on the surface of water in a bowl. Bring a strong magnet above and near to the water surface. Explain any observed motion of the particles.
 
+In the research of this problem, using the principle of optical lever, I innovatively visualized the weak magnetic field effect of the magnet on the water surface and quantitatively analyzed the motion of floating objects on the water surface.
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Strange_Motion/experiment.jpeg" alt="Magnetic field visualization experiment" style="width: 61.8%; height: auto;">
+<p>Drawing by Xi</p>
+</div>
+
+The above figure roughly shows the experimental setup. A laser pointer （激光笔） (outside the water tank（水缸）) is used to illuminate the point of action (below the magnet（磁铁）) from below the water surface. After reflection, it reaches the wall. By measuring the displacement of the reflected light spot, the effect of the magnet on the water surface can be quantitatively analyzed.
+
 ### Invisibility
 
 > Lenticular lenses can be used to distort light and make objects disappear. Investigate how changing the properties of the lens and the geometry of the object affect the extent to which the object can be detected.
@@ -131,6 +140,6 @@ Focus on analyzing the perpendicular cross-section:
 
 For narrow objects, fewer light rays ultimately enter the human eye, thus achieving invisibility.
 
-More detailed analysis can be discussed by [contacting me](../personal_information.md), which will not be elaborated here. In addition, [Wikipedia](https://en.wikipedia.org/wiki/Lenticular_lens) has an introduction to [lenticular lenses](https://en.wikipedia.org/wiki/Lenticular_lens), which also contains some relevant information.
+In addition, [Wikipedia](https://en.wikipedia.org/wiki/Lenticular_lens) has an introduction to [lenticular lenses](https://en.wikipedia.org/wiki/Lenticular_lens), which contains some relevant information.
 
 [Back](../experience.md)

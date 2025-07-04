@@ -60,6 +60,15 @@ hide:
 
 > Sprinkle small floating particles on the surface of water in a bowl. Bring a strong magnet above and near to the water surface. Explain any observed motion of the particles.（在碗中的水面上撒上漂浮的小颗粒。在水面上方和附近放一块强力磁铁。解释观察到的粒子运动。）
 
+在本题的研究中，利用光杠杆原理，创新性地将磁铁对水面微弱的磁场作用可视化，定量分析了水面上漂浮物体的运动。
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Strange_Motion/experiment.jpeg" alt="磁场可视化实验" style="width: 61.8%; height: auto;">
+<p>作图 熙</p>
+</div>
+
+上图大致展示了实验装置。使用激光笔（水缸外）从水面下方照射作用点（磁铁下方），经反射到达墙面，测量反射光点的偏移量，从而定量分析磁铁对水面的作用。
+
 ### Invisibility （隐形）
 
 > > Lenticular lenses can be used to distort light and make objects disappear. Investigate how changing the properties of the lens and the geometry of the object affect the extent to which the object can be detected.（光栅透镜/双凸透镜可以用来扭曲光线并使物体消失，研究改变透镜的属性和物体的几何形状会如何影响物体被检测到的范围。）
@@ -131,6 +140,6 @@ hide:
 
 对于窄物体，最终入射人眼的光线更少，从而实现隐形。
 
-更详细的分析可以[与我联系](../personal_information.md)讨论，此处不再赘述。此外，[Wikipedia](https://en.wikipedia.org/wiki/Lenticular_lens) 中有关于[光栅透镜](https://en.wikipedia.org/wiki/Lenticular_lens)的介绍，其中也有部分相关信息。
+此外，[Wikipedia](https://en.wikipedia.org/wiki/Lenticular_lens) 中有关于[光栅透镜](https://en.wikipedia.org/wiki/Lenticular_lens)的介绍，其中有部分相关信息。
 
 [返回](../experience.md)
