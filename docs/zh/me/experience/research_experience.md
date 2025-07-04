@@ -56,6 +56,12 @@ hide:
 
 > To land a coin on its side is often associated with the idea of a rare occurrence. What should be the physical and geometrical characteristics of a cylindrical dice so that it has the same probability to land on its side and one of its faces?（一枚硬币落地时侧面站立的情况通常是很罕见的。为了使一个圆柱形骰子落下时能有相同的概率立在它的侧面和上下表面其中之一，它应该具有怎样的物理和几何特征？）
 
+本题，物理结构较为简单，我设计了圆柱形骰子模型，利用 pybullet 库进行模拟，通过蒙特卡洛方法统计落地时侧面和上下表面的概率。
+
+项目在完成后，上传至了 GitHub，地址为：<https://github.com/abwuge/IYPT-2022-using-cppandpython>。由于当时对 Python 的执行效率存在偏见，故使用 C++编写主逻辑，用 Python 编写模拟脚本。
+
+项目使用 Visual Studio 编译。
+
 ### Strange Motion （奇怪的运动）
 
 > Sprinkle small floating particles on the surface of water in a bowl. Bring a strong magnet above and near to the water surface. Explain any observed motion of the particles.（在碗中的水面上撒上漂浮的小颗粒。在水面上方和附近放一块强力磁铁。解释观察到的粒子运动。）
@@ -71,7 +77,7 @@ hide:
 
 ### Invisibility （隐形）
 
-> > Lenticular lenses can be used to distort light and make objects disappear. Investigate how changing the properties of the lens and the geometry of the object affect the extent to which the object can be detected.（光栅透镜/双凸透镜可以用来扭曲光线并使物体消失，研究改变透镜的属性和物体的几何形状会如何影响物体被检测到的范围。）
+> Lenticular lenses can be used to distort light and make objects disappear. Investigate how changing the properties of the lens and the geometry of the object affect the extent to which the object can be detected.（光栅透镜/双凸透镜可以用来扭曲光线并使物体消失，研究改变透镜的属性和物体的几何形状会如何影响物体被检测到的范围。）
 
 最初，我使用凸透镜组进行实验。而后因查阅资料更正翻译，改用光栅进行实验。
 

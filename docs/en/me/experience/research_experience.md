@@ -56,6 +56,12 @@ hide:
 
 > To land a coin on its side is often associated with the idea of a rare occurrence. What should be the physical and geometrical characteristics of a cylindrical dice so that it has the same probability to land on its side and one of its faces?
 
+For this problem, with a relatively simple physical structure, I designed a cylindrical dice model and used the pybullet library for simulation, employing Monte Carlo methods to statistically analyze the probability of landing on the side and the top/bottom surfaces.
+
+After completion, the project was uploaded to GitHub at: <https://github.com/abwuge/IYPT-2022-using-cppandpython>. Due to my bias against Python's execution efficiency at the time, I used C++ to write the main logic and Python to write the simulation scripts.
+
+The project was compiled using Visual Studio.
+
 ### Strange Motion
 
 > Sprinkle small floating particles on the surface of water in a bowl. Bring a strong magnet above and near to the water surface. Explain any observed motion of the particles.
