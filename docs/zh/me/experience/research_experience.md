@@ -52,6 +52,8 @@ hide:
 
 > A metal disk with a hole at its centre sinks in a container filled with water. When a vertical water jet hits the centre of the disc, it may float on the water surface. Explain this phenomenon and investigate the relevant parameters.（将一个中心有孔的金属圆盘沉入装满水的容器中。当一个垂直的水流击中圆盘中心时，它可能会漂浮在水面上。解释这一现象并研究相关参数。）
 
+在本研究的实验设计中，创新性的通过将圆盘微调至水面下方与将圆盘完全浮于水面上两种状态对比，分析排除了浮力的影响，利于定量分析由水流产生的作用。
+
 ### Three-Sided Dice （圆柱形骰子）
 
 > To land a coin on its side is often associated with the idea of a rare occurrence. What should be the physical and geometrical characteristics of a cylindrical dice so that it has the same probability to land on its side and one of its faces?（一枚硬币落地时侧面站立的情况通常是很罕见的。为了使一个圆柱形骰子落下时能有相同的概率立在它的侧面和上下表面其中之一，它应该具有怎样的物理和几何特征？）

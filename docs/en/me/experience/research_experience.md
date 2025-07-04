@@ -52,6 +52,8 @@ hide:
 
 > A metal disk with a hole at its centre sinks in a container filled with water. When a vertical water jet hits the centre of the disc, it may float on the water surface. Explain this phenomenon and investigate the relevant parameters.
 
+In the experimental design of this research, I innovatively compared two states: fine-tuning the disk to just below the water surface versus having the disk completely floating on the water surface. This analysis excluded the influence of buoyancy, facilitating quantitative analysis of the effects produced by water flow.
+
 ### Three-Sided Dice
 
 > To land a coin on its side is often associated with the idea of a rare occurrence. What should be the physical and geometrical characteristics of a cylindrical dice so that it has the same probability to land on its side and one of its faces?
