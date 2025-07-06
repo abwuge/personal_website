@@ -1,7 +1,7 @@
 ---
 title: Research Experience
 hide:
-  - navigation
+    - navigation
 ---
 
 [Back](../experience.md)
@@ -14,7 +14,27 @@ hide:
 
 ## July 2024: Particle Propagation and Detection Simulation
 
-> Shandong Institute for Advanced Technology Summer Camp.
+> > Shandong Institute for Advanced Technology Summer Camp.
+>
+> This was a small project assigned to me by [Professor Weiwei Xu](https://en.iat.cn/about/team_info.html?id=67) during my time at the Shandong Institute for Advanced Technology Summer Camp.
+
+In this research, I wrote a Monte Carlo simulation program for particle propagation and detection using C++.
+
+The program starts from ideal conditions (detector without errors, particles without energy loss or scattering) and gradually incorporates factors such as detector errors, particle energy loss, and multiple scattering to simulate particle propagation in detectors and generate detector data. Finally, it statistically analyzes the detector resolution.
+
+The particle propagation trajectory should be:
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/particle_trajectory.jpeg" alt="Particle Propagation Trajectory Sketch" style="width: auto; height: 61.8vh;">
+</div>
+
+This is a final simulation result:
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/result.jpeg" alt="Detector Resolution Result" style="width: 61.8%; height: auto;">
+</div>
+
+After completing the project, I uploaded the simulation code to GitHub at: <https://github.com/abwuge/sdiat>
 
 ## May 2024 - Present: Intelligent Warehouse Game Design Based on Minecraft Platform
 
@@ -25,14 +45,15 @@ hide:
 This is not a physics-related research project; I participated in this project due to my interest in Minecraft.
 
 Project Overview:
+
 > This project utilizes Minecraft's high degree of freedom and the Create mod's mechanical simulation capabilities to gamify intelligent warehouse laboratory design. By functionally replicating laboratory systems, it establishes intuitive models for warehouse cargo handling and inter-system coordination, and designs various gameplay mechanics to provide reference for educational approaches that combine learning with entertainment.
 
 In this project, I was responsible for understanding the project leader's design intentions, writing data packs using mcfunction, and developing mods using Java (Forge). The main function of this part is to implement gameplay logic.
 
 The project repositories are hosted on GitHub, but due to ongoing patent applications related to the project, they are temporarily private. The following repositories will be made public after the patent disclosure:
 
-- Data Pack: <https://github.com/abwuge/mlc>
-- Mod: <https://github.com/abwuge/Minecraft_Logistics_Create_Mod>
+-   Data Pack: <https://github.com/abwuge/mlc>
+-   Mod: <https://github.com/abwuge/Minecraft_Logistics_Create_Mod>
 
 ## May 2023 - May 2024: Cosmic Ray Direction Reconstruction Based on Cherenkov Telescope
 
@@ -40,7 +61,7 @@ The project repositories are hosted on GitHub, but due to ongoing patent applica
 
 This project addresses the direction reconstruction accuracy problem of ultra-high-energy gamma-ray sources in the LHAASO experiment. Through establishing theoretical models and Monte Carlo simulations, we systematically studied the influence of various Cherenkov telescope parameters on direction reconstruction accuracy.
 
-I served as the student leader in this project. Under the guidance of [Professor Liu Hu](https://phys.swjtu.edu.cn/info/1378/7586.htm), our team completed the telescope array design, telescope parameterized model establishment, used CORSIKA software to generate simulation data, and analyzed data using C++ and the ROOT framework.
+I served as the student leader in this project. Under the guidance of [Professor Hu Liu](https://phys.swjtu.edu.cn/info/1378/7586.htm), our team completed the telescope array design, telescope parameterized model establishment, used CORSIKA software to generate simulation data, and analyzed data using C++ and the ROOT framework.
 
 The team wrote and published one paper: [Study of Angular Resolution Using Imaging Atmospheric Cherenkov Technique](https://doi.org/10.3390/universe10020100); participated in one related patent: [大气切伦科夫望远镜阵列的位型布局方法、设备及介质](https://patents.google.com/patent/CN117011476A) (Layout methods, equipment and media of the atmospheric Cherenkov telescope array) (Patent Publication No. CN117011476A, link from Google, [China Patent Publication Announcement](http://epub.cnipa.gov.cn/) does not support direct linking).
 
@@ -76,6 +97,7 @@ This problem is actually a combination of magnetostriction and resonance phenome
 In the experiment, due to the insufficient power of ordinary function generators, I used a non-inverting amplifier circuit (operational amplifier) to amplify the signal to drive the coil.
 
 Circuit diagram:
+
 <div style="text-align: center;">
 <img src="../../../../assets/me/experience/research_experience/CUPT2023/Ball_on_Ferrite_Rod/circuit_diagram.jpeg" alt="Non-inverting Amplifier Circuit Diagram" style="width: 61.8%; height: auto;">
 </div>
@@ -158,7 +180,7 @@ In the experiment, I innovatively combined a dark room, long exposure, laser poi
 
 However:
 
-- The problem suggests that "the geometry of the object" affects the invisibility effect, while the invisibility effect of the convex lens group only depends on the lens and lens group properties.
+-   The problem suggests that "the geometry of the object" affects the invisibility effect, while the invisibility effect of the convex lens group only depends on the lens and lens group properties.
 
 After in-depth research on this anomaly, I believe the problem actually refers to lenticular lenses, so I conducted the following experiments.
 

@@ -14,7 +14,27 @@ hide:
 
 ## 2024 年 7 月 - 2024 年 7 月：粒子传播与探测模拟
 
-> 山东高等技术研究院夏令营。
+> > 山东高等技术研究院夏令营。
+>
+> 这是我在山东高等技术研究院夏令营期间，[许伟伟老师](https://iat.cn/about/team_info.html?id=138)给我的一个小项目。
+
+该研究中，我使用C++编写了一个粒子传播和探测的蒙特卡洛模拟程序。
+
+程序从理想情况（探测器无误差、粒子无能损无散射）开始，逐步加入探测器误差、粒子能损、多次散射等因素，模拟粒子在探测器中的传播，并生成探测器的探测数据。最后，统计分析探测器的分辨率。
+
+粒子的传播轨迹应当是：
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/particle_trajectory.jpeg" alt="粒子传播轨迹草图" style="width: auto; height: 61.8vh;">
+</div>
+
+这是一张最终模拟图：
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/result.jpeg" alt="探测器分辨率结果图" style="width: 61.8%; height: auto;">
+</div>
+
+项目完成后，我将模拟代码上传至了 GitHub，地址为：<https://github.com/abwuge/sdiat>
 
 ## 2024 年 5 月 - 至今：基于 Minecraft 平台的智能仓储游戏设计
 
