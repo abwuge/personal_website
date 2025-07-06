@@ -30,7 +30,7 @@
 
 ### July 2024: Particle Propagation and Detection Simulation
 
-> Shandong Institute for Advanced Technology Summer Camp.
+> Shandong Institute of Advanced Technology Summer Camp.
 
 ### May 2024 - Present: Intelligent Warehouse Game Design Based on Minecraft Platform
 

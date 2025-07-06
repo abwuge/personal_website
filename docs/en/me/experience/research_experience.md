@@ -14,9 +14,9 @@ hide:
 
 ## July 2024: Particle Propagation and Detection Simulation
 
-> > Shandong Institute for Advanced Technology Summer Camp.
+> > Shandong Institute of Advanced Technology Summer Camp.
 >
-> This was a small project assigned to me by [Professor Weiwei Xu](https://en.iat.cn/about/team_info.html?id=67) during my time at the Shandong Institute for Advanced Technology Summer Camp.
+> This was a small project assigned to me by [Professor Weiwei Xu](https://en.iat.cn/about/team_info.html?id=67) during my time at the Shandong Institute of Advanced Technology Summer Camp.
 
 In this research, I wrote a Monte Carlo simulation program for particle propagation and detection using C++.
 
