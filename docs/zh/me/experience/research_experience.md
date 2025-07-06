@@ -12,13 +12,59 @@ hide:
 
 > 毕业设计论文。
 
+我的毕业设计也是跟着[许伟伟老师](https://iat.cn/about/team_info.html?id=138)做的。
+
+研究中，我首先使用大约 45 天的时间，理解了 AMS 的构造以及飞行时间探测器的工作流程，并在此基础上开展了简化蒙特卡洛模拟程序的编写。程序模拟了现有线性重建方法的效果，并使用新的非线性重建方法对同样的模拟数据进行重建，对比了两种方法的重建效果。
+
+对比图：
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/comparison_toyMC.jpeg" alt="重建结果对比图" style="width: 61.8%; height: auto;">
+</div>
+
+这里是简化的蒙特卡洛模拟程序的 GitHub 地址：<https://github.com/abwuge/capstoneProject>
+
+此后，我结合 AMS 软件的蒙特卡洛模拟数据和 AMS 分析软件，利用简化蒙特卡洛模拟程序的思路和方法，编写了一个完整的非线性重建方法，并将其与 AMS 现有软件的线性重建方法进行了对比。
+
+除此之外，还有一个创新点：TOF 的探测能量损失永远小于粒子的实际能量损失，我利用 Bethe-Bloch 公式作为原理，增加了一个能量损失修正参数，极大地优化了重建结果。
+
+这是对比图，其中 ζ 为能量损失参数，ζ = 1 相当于不修正：
+
+<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: flex-end; width: 61.8%; margin: 0 auto; gap: 2%;">
+<div style="width: 49%;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/means.jpeg" alt="重建结果均值" style="width: 100%; height: auto;">
+<p>(a) 均值</p>
+</div>
+<div style="width: 49%;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/errors.jpeg" alt="重建结果误差" style="width: 100%; height: auto;">
+<p>(b) 分辨率</p>
+</div>
+</div>
+<p>重建结果，纵坐标为重建速度倒数与蒙特卡洛精确速度倒数的差</p>
+</div>
+
+这个程序的 GitHub 地址是：<https://github.com/abwuge/BetaFitter4AMSSoftware>
+
+最后当然是我的毕业论文啦，由于毕业论文中有我的和导师们的个人签名，仓库不便公开（但是我的[论文模板](https://github.com/abwuge/SWJTU_Bachelor_Thesis)公开啦~）。
+
+这里是去掉签名后的 PDF 版本：
+
+<div id="bachelor-thesis-container-zh"
+    data-pdf-loader
+     data-pdf-src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/SWJTU_Bachelor_Thesis.pdf"
+     data-language="zh"
+     data-prompt-text="PDF文件较大，点击预览论文：" 
+     data-preview-button-text="预览论文">
+</div>
+
 ## 2024 年 7 月 - 2024 年 7 月：粒子传播与探测模拟
 
 > > 山东高等技术研究院夏令营。
 >
 > 这是我在山东高等技术研究院夏令营期间，[许伟伟老师](https://iat.cn/about/team_info.html?id=138)给我的一个小项目。
 
-该研究中，我使用C++编写了一个粒子传播和探测的蒙特卡洛模拟程序。
+该研究中，我使用 C++编写了一个粒子传播和探测的蒙特卡洛模拟程序。
 
 程序从理想情况（探测器无误差、粒子无能损无散射）开始，逐步加入探测器误差、粒子能损、多次散射等因素，模拟粒子在探测器中的传播，并生成探测器的探测数据。最后，统计分析探测器的分辨率。
 

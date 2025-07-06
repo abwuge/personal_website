@@ -12,6 +12,52 @@ hide:
 
 > Undergraduate thesis project.
 
+My undergraduate thesis was also conducted under the supervision of [Professor Weiwei Xu](https://en.iat.cn/about/team_info.html?id=67).
+
+In this research, I first spent approximately 45 days understanding the structure of AMS and the workflow of the time-of-flight detector, and based on this, developed a simplified Monte Carlo simulation program. The program simulated the performance of existing linear reconstruction methods and used a new nonlinear reconstruction method to reconstruct the same simulation data, comparing the reconstruction performance of both methods.
+
+Comparison chart:
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/comparison_toyMC.jpeg" alt="Reconstruction Results Comparison" style="width: 61.8%; height: auto;">
+</div>
+
+The GitHub repository for the simplified Monte Carlo simulation program is: <https://github.com/abwuge/capstoneProject>
+
+Subsequently, I combined Monte Carlo simulation data from AMS software, AMS analysis software, and the ideas and methods from the simplified Monte Carlo simulation program, wrote a complete nonlinear reconstruction method and compared it with the linear reconstruction method of AMS's existing software.
+
+Additionally, there was an innovation: the energy loss detected by TOF is always smaller than the actual energy loss of particles. I used the Bethe-Bloch formula as the principle and added an energy loss correction parameter, which greatly optimized the reconstruction results.
+
+This is the comparison chart, where ζ is the energy loss parameter, and ζ = 1 is equivalent to no correction:
+
+<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: flex-end; width: 61.8%; margin: 0 auto; gap: 2%;">
+<div style="width: 49%;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/means.jpeg" alt="Reconstruction Results Mean" style="width: 100%; height: auto;">
+<p>(a) Mean</p>
+</div>
+<div style="width: 49%;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/errors.jpeg" alt="Reconstruction Results Error" style="width: 100%; height: auto;">
+<p>(b) Resolution</p>
+</div>
+</div>
+<p>Reconstruction results, y-axis shows the difference between reconstructed velocity inverse and Monte Carlo precise velocity inverse</p>
+</div>
+
+The GitHub repository for this program is: <https://github.com/abwuge/BetaFitter4AMSSoftware>
+
+Finally, here is my undergraduate thesis! Due to personal signatures of myself and my supervisors in the thesis, the repository is not convenient to make public (but my [thesis template](https://github.com/abwuge/SWJTU_Bachelor_Thesis) is public~).
+
+Here is the PDF version with signatures removed:
+
+<div id="bachelor-thesis-container-en"
+    data-pdf-loader
+     data-pdf-src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/SWJTU_Bachelor_Thesis.pdf"
+     data-language="en"
+     data-prompt-text="The PDF file is large and only abstract is available for English readers, click to preview the thesis: " 
+     data-preview-button-text="Preview Thesis">
+</div>
+
 ## July 2024: Particle Propagation and Detection Simulation
 
 > > Shandong Institute of Advanced Technology Summer Camp.
