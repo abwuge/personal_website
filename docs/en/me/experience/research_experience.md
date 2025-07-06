@@ -36,6 +36,15 @@ hide:
 
 > A ferrite rod is placed at the bottom end of a vertical tube. Apply an ac voltage, of a frequency of the same order as the natural frequency of the rod, to a fine wire coil wrapped around its lower end. When a ball is placed on top of the rod, it will start to bounce. Explain and investigate this phenomenon.
 
+This problem is actually a combination of magnetostriction and resonance phenomena.
+
+In the experiment, due to the insufficient power of ordinary function generators, I used a non-inverting amplifier circuit (operational amplifier) to amplify the signal to drive the coil.
+
+Circuit diagram:
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Ball_on_Ferrite_Rod/circuit_diagram.jpeg" alt="Non-inverting Amplifier Circuit Diagram" style="width: 61.8%; height: auto;">
+</div>
+
 ### Pancake Rotation
 
 > Place a few balls in a round container. If you move the container around a vertical axis, the balls can move co-directionally with the movement of the container, or they can move in the opposite direction. Explain this phenomenon and investigate how the direction of movement depends on relevant parameters.

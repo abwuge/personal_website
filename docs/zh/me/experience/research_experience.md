@@ -36,6 +36,15 @@ hide:
 
 > A ferrite rod is placed at the bottom end of a vertical tube. Apply an ac voltage, of a frequency of the same order as the natural frequency of the rod, to a fine wire coil wrapped around its lower end. When a ball is placed on top of the rod, it will start to bounce. Explain and investigate this phenomenon.（铁氧体棒放置在垂直管的底端。将频率与铁氧体棒固有频率同阶的交流电压加到包裹在棒下端的细线圈上。当一个球放在铁氧体棒顶部时，球就会开始反弹。研究并解释这一现象。）
 
+此题实际上是磁致伸缩和共振的现象结合。
+
+实验中，由于普通函数发生器的功率过小，利用同相放大电路（运算放大器）对信号进行放大以驱动线圈。
+
+电路简图：
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Ball_on_Ferrite_Rod/circuit_diagram.jpeg" alt="同相放大电路图" style="width: 61.8%; height: auto;">
+</div>
+
 ### Pancake Rotation （煎饼旋转）
 
 > Place a few balls in a round container. If you move the container around a vertical axis, the balls can move co-directionally with the movement of the container, or they can move in the opposite direction. Explain this phenomenon and investigate how the direction of movement depends on re­le­vant parameters.（将几个球放入圆形容器中。如果围绕垂直轴移动容器，则球可以随容器的移动一起同向移动，也可以沿相反方向移动。解释这种现象，并研究运动方向取决于哪些相关参数。）
