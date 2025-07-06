@@ -28,9 +28,24 @@ hide:
 
 > CUPT（Chinese Undergraduate Physics Tournament，中国大学生物理学术竞赛），采用 IYPT（International Young Physicists' Tournament，国际青年物理学家锦标赛）部分题目。
 
+> 此竞赛每题都需要进行理论分析、实验设计、实验实施、数据处理、结果分析等：每题都是一个完整的研究项目。因此我将其称为“研究”。
+
 ### Euler’s Pendulum （欧拉摆）
 
 > Take a thick plate of non-magnetic ma­terial and fix a neodymium magnet on top of it. Suspend a magnetic rod (which can be assembled from cylindrical neo­dy­mium magnets) underneath it. Deflect the rod so that it touches the plate only with highest edge and release it. Study the motion of such a pendulum under various conditions.（取一块厚的无磁性的板子，在上面固定一块钕磁铁。在其下方悬挂一根磁棒（可以由圆柱形钕磁铁组装而成）。将磁棒偏转，使其只有最高处的边缘接触到板子，然后释放它。研究这种摆在各种条件下的运动。）
+
+此研究中我做了一个理想假设，即磁棒与板不发生滑动。
+
+则题目即可视为多个阶段的，接触点固定的，类复摆问题。
+
+摆动过程就像这样：
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Eulers_Pendulum/euler_pendulum.jpeg" alt="欧拉摆运动示意图" style="width: auto; height: 61.8vh;">
+<p>（如果摆在竖直方向上的角速度很大，以至于不再为两个接触点而是一个圆，则可以简单的假定一个等效接触点于圆心的上方——因为摆是规则的圆柱体）</p>
+</div>
+
+关于复摆则已有较为成熟的研究。
 
 ### Ball on Ferrite Rod （铁氧体棒上的球）
 

@@ -28,9 +28,24 @@ hide:
 
 > CUPT (Chinese Undergraduate Physics Tournament), using some problems from IYPT (International Young Physicists' Tournament).
 
+> This competition requires theoretical analysis, experimental design, experimental implementation, data processing, and result analysis for each problem: each problem is a complete research project. Therefore, I refer to it as "research".
+
 ### Euler's Pendulum
 
 > Take a thick plate of non-magnetic material and fix a neodymium magnet on top of it. Suspend a magnetic rod (which can be assembled from cylindrical neodymium magnets) underneath it. Deflect the rod so that it touches the plate only with highest edge and release it. Study the motion of such a pendulum under various conditions.
+
+In this research, I made an ideal assumption that there is no sliding between the magnetic rod and the plate.
+
+Then the problem can be viewed as a multi-stage, fixed-contact-point, compound pendulum-like problem.
+
+The pendulum motion looks like this:
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Eulers_Pendulum/euler_pendulum.jpeg" alt="Euler's Pendulum Motion Diagram" style="width: auto; height: 61.8vh;">
+<p>(If the angular velocity of the pendulum in the vertical direction is so large that it is no longer two contact points but a circle, then one can simply assume an equivalent contact point above the center of the circle — because the pendulum is a regular cylinder)</p>
+</div>
+
+There has been relatively mature research on compound pendulums.
 
 ### Ball on Ferrite Rod
 
