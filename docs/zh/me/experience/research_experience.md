@@ -24,6 +24,12 @@ hide:
 
 > SRTP（Student Research Training Program，大学生科研训练计划）项目，省部级。
 
+本项目针对LHAASO实验中超高能伽马射线源的方向重建精度问题，通过建立理论模型和蒙特卡洛模拟，系统地研究了切伦科夫望远镜各参数对方向重建精度的影响。
+
+该项目中我为学生负责人。在[刘虎老师](https://iap.swjtu.edu.cn/info/1016/1027.htm)的指导下，团队完成了望远镜位型的设计、望远镜参数化模型的建立，使用COSIKA软件产生模拟数据，基于C++，使用ROOT框架进行分析数据。
+
+团队撰写并发表论文一篇：[Study of Angular Resolution Using Imaging Atmospheric Cherenkov Technique](https://doi.org/10.3390/universe10020100)；参与相关专利一项：[大气切伦科夫望远镜阵列的位型布局方法、设备及介质](https://kns.cnki.net/kcms2/article/abstract?v=_ISxPpdig3w_7LJv9AivZfQQoSeB5DmEAy8iEJgPXQomGmCSWaZnEucOM7luJI_AO-WytwlYqI9KnIMLLJ-8gqjG7-VsLjFQwOlG9-mJJcLRQslD5wyyieXS1tp9fw4GfjAd4kbDnL4EqGKzi1mVXuWxTBiwPml7LnRd3VXb8ZzuIjZT6X77ag==&uniplatform=NZKPT&language=CHS)（专利公开号CN117011476A，链接来自知网，[中国专利发布公告](http://epub.cnipa.gov.cn/)无法使用直链跳转）。
+
 ## 2022 年 7 月 - 2023 年 8 月：CUPT 2023
 
 > CUPT（Chinese Undergraduate Physics Tournament，中国大学生物理学术竞赛），采用 IYPT（International Young Physicists' Tournament，国际青年物理学家锦标赛）部分题目。

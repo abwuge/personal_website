@@ -24,6 +24,12 @@ hide:
 
 > SRTP (Student Research Training Program) project, Provincial level.
 
+This project addresses the direction reconstruction accuracy problem of ultra-high-energy gamma-ray sources in the LHAASO experiment. Through establishing theoretical models and Monte Carlo simulations, we systematically studied the influence of various Cherenkov telescope parameters on direction reconstruction accuracy.
+
+I served as the student leader in this project. Under the guidance of [Professor Liu Hu](https://phys.swjtu.edu.cn/info/1378/7586.htm), our team completed the telescope array design, telescope parameterized model establishment, used CORSIKA software to generate simulation data, and analyzed data using C++ and the ROOT framework.
+
+The team wrote and published one paper: [Study of Angular Resolution Using Imaging Atmospheric Cherenkov Technique](https://doi.org/10.3390/universe10020100); participated in one related patent: [大气切伦科夫望远镜阵列的位型布局方法、设备及介质](https://patents.google.com/patent/CN117011476A) (Layout methods, equipment and media of the atmospheric Cherenkov telescope array) (Patent Publication No. CN117011476A, link from Google, [China Patent Publication Announcement](http://epub.cnipa.gov.cn/) does not support direct linking).
+
 ## July 2022 - August 2023: CUPT 2023
 
 > CUPT (Chinese Undergraduate Physics Tournament), using some problems from IYPT (International Young Physicists' Tournament).
