@@ -20,15 +20,27 @@ hide:
 
 > SRTP（Student Research Training Program，大学生科研训练计划）项目，国家级。
 
+这并不是物理相关的研究项目，我因对 Minecraft 的兴趣参与该项目。
+
+项目简介：
+> 该项目利用 Minecraft 的高自由度和 Create 模组的机械仿真功能，对智能仓储实验室进行游戏化设计。通过功能性复刻实验室系统，建立仓库存取货物、系统间配合的直观模型，设计多种游戏玩法，为寓教于乐的教学方式提供参考。
+
+该项目中，我负责理解负责人的设计意图，使用 mcfunction 编写数据包，使用 Java 编写模组（Forge），该部分的主要功能是实现玩法逻辑。
+
+项目的仓库位于 GitHub，但因项目相关专利申请中，暂不公开，以下仓库将在专利公开后转公开：
+
+-   数据包： <https://github.com/abwuge/mlc>
+-   模组： <https://github.com/abwuge/Minecraft_Logistics_Create_Mod>
+
 ## 2023 年 5 月 - 2024 年 5 月：基于切伦科夫望远镜的宇宙射线方向重建
 
 > SRTP（Student Research Training Program，大学生科研训练计划）项目，省部级。
 
-本项目针对LHAASO实验中超高能伽马射线源的方向重建精度问题，通过建立理论模型和蒙特卡洛模拟，系统地研究了切伦科夫望远镜各参数对方向重建精度的影响。
+本项目针对 LHAASO 实验中超高能伽马射线源的方向重建精度问题，通过建立理论模型和蒙特卡洛模拟，系统地研究了切伦科夫望远镜各参数对方向重建精度的影响。
 
-该项目中我为学生负责人。在[刘虎老师](https://iap.swjtu.edu.cn/info/1016/1027.htm)的指导下，团队完成了望远镜位型的设计、望远镜参数化模型的建立，使用COSIKA软件产生模拟数据，基于C++，使用ROOT框架进行分析数据。
+该项目中我为学生负责人。在[刘虎老师](https://iap.swjtu.edu.cn/info/1016/1027.htm)的指导下，团队完成了望远镜位型的设计、望远镜参数化模型的建立，使用 COSIKA 软件产生模拟数据，基于 C++，使用 ROOT 框架进行分析数据。
 
-团队撰写并发表论文一篇：[Study of Angular Resolution Using Imaging Atmospheric Cherenkov Technique](https://doi.org/10.3390/universe10020100)；参与相关专利一项：[大气切伦科夫望远镜阵列的位型布局方法、设备及介质](https://kns.cnki.net/kcms2/article/abstract?v=_ISxPpdig3w_7LJv9AivZfQQoSeB5DmEAy8iEJgPXQomGmCSWaZnEucOM7luJI_AO-WytwlYqI9KnIMLLJ-8gqjG7-VsLjFQwOlG9-mJJcLRQslD5wyyieXS1tp9fw4GfjAd4kbDnL4EqGKzi1mVXuWxTBiwPml7LnRd3VXb8ZzuIjZT6X77ag==&uniplatform=NZKPT&language=CHS)（专利公开号CN117011476A，链接来自知网，[中国专利发布公告](http://epub.cnipa.gov.cn/)无法使用直链跳转）。
+团队撰写并发表论文一篇：[Study of Angular Resolution Using Imaging Atmospheric Cherenkov Technique](https://doi.org/10.3390/universe10020100)；参与相关专利一项：[大气切伦科夫望远镜阵列的位型布局方法、设备及介质](https://kns.cnki.net/kcms2/article/abstract?v=_ISxPpdig3w_7LJv9AivZfQQoSeB5DmEAy8iEJgPXQomGmCSWaZnEucOM7luJI_AO-WytwlYqI9KnIMLLJ-8gqjG7-VsLjFQwOlG9-mJJcLRQslD5wyyieXS1tp9fw4GfjAd4kbDnL4EqGKzi1mVXuWxTBiwPml7LnRd3VXb8ZzuIjZT6X77ag==&uniplatform=NZKPT&language=CHS)（专利公开号 CN117011476A，链接来自知网，[中国专利发布公告](http://epub.cnipa.gov.cn/)无法使用直链跳转）。
 
 ## 2022 年 7 月 - 2023 年 8 月：CUPT 2023
 
@@ -62,6 +74,7 @@ hide:
 实验中，由于普通函数发生器的功率过小，利用同相放大电路（运算放大器）对信号进行放大以驱动线圈。
 
 电路简图：
+
 <div style="text-align: center;">
 <img src="../../../../assets/me/experience/research_experience/CUPT2023/Ball_on_Ferrite_Rod/circuit_diagram.jpeg" alt="同相放大电路图" style="width: 61.8%; height: auto;">
 </div>

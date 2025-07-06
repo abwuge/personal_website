@@ -20,6 +20,18 @@ hide:
 
 > SRTP (Student Research Training Program) project, National level.
 
+This is not a physics-related research project; I participated in this project due to my interest in Minecraft.
+
+Project Overview:
+> This project utilizes Minecraft's high degree of freedom and the Create mod's mechanical simulation capabilities to gamify intelligent warehouse laboratory design. By functionally replicating laboratory systems, it establishes intuitive models for warehouse cargo handling and inter-system coordination, and designs various gameplay mechanics to provide reference for educational approaches that combine learning with entertainment.
+
+In this project, I was responsible for understanding the project leader's design intentions, writing data packs using mcfunction, and developing mods using Java (Forge). The main function of this part is to implement gameplay logic.
+
+The project repositories are hosted on GitHub, but due to ongoing patent applications related to the project, they are temporarily private. The following repositories will be made public after the patent disclosure:
+
+- Data Pack: <https://github.com/abwuge/mlc>
+- Mod: <https://github.com/abwuge/Minecraft_Logistics_Create_Mod>
+
 ## May 2023 - May 2024: Cosmic Ray Direction Reconstruction Based on Cherenkov Telescope
 
 > SRTP (Student Research Training Program) project, Provincial level.
