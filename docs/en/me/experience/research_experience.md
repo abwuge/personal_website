@@ -40,6 +40,14 @@ hide:
 
 > Place a few balls in a round container. If you move the container around a vertical axis, the balls can move co-directionally with the movement of the container, or they can move in the opposite direction. Explain this phenomenon and investigate how the direction of movement depends on relevant parameters.
 
+Unlike most teams that used ready-made vibration tables, I designed and built a rotating platform based on rotation around a vertical axis, using an adjustable motor to achieve fully controllable rotation speed, rotation radius, and direction.
+
+Experimental apparatus:
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Pancake_Rotation/experimental_apparatus.jpeg" alt="Pancake Rotation Experimental Apparatus" style="width: 61.8%; height: auto;">
+</div>
+
 ## May 2022 - May 2023: Research on Properties of Water Under Magnetic Field
 
 > SRTP (Student Research Training Program) project, University level.

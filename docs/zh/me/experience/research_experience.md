@@ -40,6 +40,14 @@ hide:
 
 > Place a few balls in a round container. If you move the container around a vertical axis, the balls can move co-directionally with the movement of the container, or they can move in the opposite direction. Explain this phenomenon and investigate how the direction of movement depends on re­le­vant parameters.（将几个球放入圆形容器中。如果围绕垂直轴移动容器，则球可以随容器的移动一起同向移动，也可以沿相反方向移动。解释这种现象，并研究运动方向取决于哪些相关参数。）
 
+与大多数队伍使用现成的振动台不同，我根据绕垂直轴旋转，设计并制作了一个转动平台，利用可调电机，实现了完全可控的转速、转动半径、方向。
+
+实验装置：
+
+<div style="text-align: center;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Pancake_Rotation/experimental_apparatus.jpeg" alt="煎饼旋转实验装置" style="width: 61.8%; height: auto;">
+</div>
+
 ## 2022 年 5 月 - 2023 年 5 月：水在磁场作用下性质的研究
 
 > SRTP（Student Research Training Program，大学生科研训练计划）项目，校级。
