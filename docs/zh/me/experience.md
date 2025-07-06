@@ -32,7 +32,7 @@
 
 > 山东高等技术研究院夏令营。
 
-### 2024 年 5 月 - 2025 年 5 月：基于 Minecraft 平台的智能仓储游戏设计
+### 2024 年 5 月 - 至今：基于 Minecraft 平台的智能仓储游戏设计
 
 > SRTP（Student Research Training Program，大学生科研训练计划）项目，国家级。
 

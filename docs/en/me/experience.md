@@ -32,7 +32,7 @@
 
 > Shandong Institute for Advanced Technology Summer Camp.
 
-### May 2024 - May 2025: Intelligent Warehouse Game Design Based on Minecraft Platform
+### May 2024 - Present: Intelligent Warehouse Game Design Based on Minecraft Platform
 
 > SRTP (Student Research Training Program) project, National level.
 
