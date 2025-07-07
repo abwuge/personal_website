@@ -181,7 +181,7 @@ Competition paper:
 
 The supporting materials for the paper are [here](../../../assets/me/experience/competitions_honors/EMCM_16_002093A_supporting_material.zip). I didn't have the habit of creating Git repositories and using English in comments at that time, so I can only provide a compressed file, and it may not be easy to understand for non-Chinese speakers.
 
-Due to my grandfather's funeral and participating almost individually, this competition left me mentally exhausted and I once suffered from mathematical modeling PTSD.
+Due to my grandfather's funeral and participating almost individually, this competition left me mentally exhausted and I once suffered from mathematical modeling PTSD (Just kidding).
 
 Fortunately, I won third prize:
 

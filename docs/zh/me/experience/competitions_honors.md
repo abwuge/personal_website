@@ -181,7 +181,7 @@ Lenticular lenses 被翻译为了“双凸透镜”，而经过查阅资料，�
 
 论文的支撑材料在[这里](../../../assets/me/experience/competitions_honors/EMCM_16_002093A_supporting_material.zip)。当时我并没有创建 Git 仓库的习惯，所以只能提供一个压缩包了。
 
-因为爷爷的丧事，以及几乎是我个人参赛，这次比赛令我心力憔悴，一度患上了数学建模 PTSD。
+因为爷爷的丧事，以及几乎是我个人参赛，这次比赛令我心力憔悴，一度患上了数学建模 PTSD（误）。
 
 幸得三等奖：
 
