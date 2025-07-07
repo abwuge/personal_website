@@ -16,7 +16,7 @@ hide:
 
 My goodness, why would anyone parse this sentence incorrectly? I'm really not a solar panel repair technician! (In Chinese, "太阳能维修", "太阳能" can be interpreted as "solar panel" or "the sun can ...".)
 
-### A昵称能按空格吗 (Can nicknames be spaces)
+### A昵称能按空格吗 (Can Nicknames Be Spaces)
 
 This stems from my complaint about "nicknames cannot be blank spaces."
 
@@ -33,8 +33,8 @@ This name has some variants:
 
 ### whx / hxwu / Hanxun Wu
 
-> Past the age of enjoying being called "Ge" (big brother/boss).
+> Past the age of enjoying being called "Ge".
 
-For newly registered accounts or usernames, I generally use my name's English abbreviation or full English name.
+When I create new accounts or usernames, I typically go with either my name’s Pinyin initials or the full Pinyin version.
 
 [Back](../personal_information.md)
