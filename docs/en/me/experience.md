@@ -7,6 +7,7 @@
 -   School: School of Physical Science and Technology
 -   Major: Applied Physics
 -   Core Courses:
+
     > -   Quantum Mechanics
     > -   Electrodynamics
     > -   Theoretical Mechanics
@@ -16,6 +17,7 @@
     > -   Optics
     > -   Mathematical Methods in Physics
     > -   Computational Physics Fundamentals
+
 -   GPA: 3.46/4.0
 -   Average Score: 85.95/100
 -   Ranking: 27/156
