@@ -12,7 +12,7 @@
 <li>籍贯（中国）：四川省资阳市雁江区</li>
 </ul>
 
-<p style="margin-bottom: 0;"><a href="personal_information/basic_information.md">查看更多</a></p>
+<p style="margin-bottom: 0;"><a href="basic_information">查看更多</a></p>
 
 </div>
 <div style="flex: 0 0 auto; margin-left: 20px; margin-right: 20px;">

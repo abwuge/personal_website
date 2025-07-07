@@ -12,7 +12,7 @@
 <li>Place of Origin (China): Yanjiang District, Ziyang City, Sichuan Province</li>
 </ul>
 
-<p style="margin-bottom: 0;"><a href="personal_information/basic_information.md">Learn more</a></p>
+<p style="margin-bottom: 0;"><a href="basic_information">Learn more</a></p>
 
 </div>
 <div style="flex: 0 0 auto; margin-left: 20px; margin-right: 20px;">
