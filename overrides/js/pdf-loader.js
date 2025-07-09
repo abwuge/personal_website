@@ -20,7 +20,14 @@ function loadPdf(
     const container = document.getElementById(containerId);
     if (!container) return;
 
-    const previewPdfSrc = downloadButtonText ? pdfSrc.replace(".pdf", "_small.pdf") : pdfSrc;
+    if (!promptText || !previewButtonText) {
+        showPdf(containerId, pdfSrc, language);
+        return;
+    }
+
+    const previewPdfSrc = downloadButtonText
+        ? pdfSrc.replace(".pdf", "_small.pdf")
+        : pdfSrc;
 
     let buttonsHtml = `
         <button onclick="showPdf('${containerId}', '${previewPdfSrc}', '${language}')" 
@@ -87,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "data-download-button-text"
         );
 
-        if (pdfSrc && language && promptText && previewButtonText) {
+        if (pdfSrc && language) {
             loadPdf(
                 container.id,
                 pdfSrc,
