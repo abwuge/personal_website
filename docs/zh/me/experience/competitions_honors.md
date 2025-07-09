@@ -17,7 +17,7 @@ hide:
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/excellent_graduate.jpeg" alt="2024 - 2025学年优秀毕业生" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/excellent_graduate.jpeg" alt="2024 - 2025学年优秀毕业生" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## 国家励志奖学金
@@ -29,7 +29,7 @@ hide:
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/national_encouragement_scholarship.jpeg" alt="2023 - 2024学年国家励志奖学金" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/national_encouragement_scholarship.jpeg" alt="2023 - 2024学年国家励志奖学金" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## 蓝桥杯全国软件和信息技术专业人才大赛（软件类）
@@ -46,11 +46,11 @@ hide:
 不多说，上证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/lanqiao_national_15.jpeg" alt="第十五届蓝桥杯国赛" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/lanqiao_national_15.jpeg" alt="第十五届蓝桥杯国赛" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/lanqiao_sichuan_15.jpeg" alt="第十五届蓝桥杯省赛" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/lanqiao_sichuan_15.jpeg" alt="第十五届蓝桥杯省赛" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## 中国科学院高能物理研究所英才奖学金
@@ -60,7 +60,7 @@ hide:
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/IHEP_scholarship.jpeg" alt="中国科学院高能物理研究所英才奖学金" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/IHEP_scholarship.jpeg" alt="中国科学院高能物理研究所英才奖学金" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## 综合奖学金（西南交通大学）
@@ -70,7 +70,7 @@ hide:
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/comprehensive_scholarship_2023.jpeg" alt="2022 - 2023学年综合奖学金" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/comprehensive_scholarship_2023.jpeg" alt="2022 - 2023学年综合奖学金" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## <span title="吐槽：感觉评委老师天生愿意给名校打高分，对我们不太公平">中国大学生物理学术竞赛</span>
@@ -86,7 +86,7 @@ hide:
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/CUPT_14.jpeg" alt="第十四届中国大学生物理学术竞赛" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/CUPT_14.jpeg" alt="第十四届中国大学生物理学术竞赛" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## 西南地区大学生物理学术竞赛
@@ -105,7 +105,7 @@ hide:
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/SWUPT_7.jpeg" alt="第七届西南地区大学生物理学术竞赛" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/SWUPT_7.jpeg" alt="第七届西南地区大学生物理学术竞赛" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ### 第六届
@@ -123,7 +123,7 @@ Lenticular lenses 被翻译为了“双凸透镜”，而经过查阅资料，�
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/SWUPT_6.jpeg" alt="第六届西南地区大学生物理学术竞赛" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/SWUPT_6.jpeg" alt="第六届西南地区大学生物理学术竞赛" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ### 后记
@@ -141,15 +141,15 @@ Lenticular lenses 被翻译为了“双凸透镜”，而经过查阅资料，�
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2024.jpeg" alt="2023 - 2024学年优秀学生干部" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2024.jpeg" alt="2023 - 2024学年优秀学生干部" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2023.jpeg" alt="2022 - 2023学年优秀学生干部" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2023.jpeg" alt="2022 - 2023学年优秀学生干部" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2022.jpeg" alt="2021 - 2022学年优秀学生干部" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2022.jpeg" alt="2021 - 2022学年优秀学生干部" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## “中国电机工程学会杯”全国大学生电工数学建模竞赛
@@ -186,7 +186,7 @@ Lenticular lenses 被翻译为了“双凸透镜”，而经过查阅资料，�
 幸得三等奖：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/EMCM_16.jpeg" alt="第十六届电工杯" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/EMCM_16.jpeg" alt="第十六届电工杯" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 康是 22 级的学妹，<span title="然后我不太满意，全部删掉重写了。所以这次比赛不是“几乎”个人参赛，是百分百的个人参赛（累）">她帮我写了论文的问题重述部分</span>；余我不认识，因为五一杯我让他帮我出了参赛费但我没获奖，所以这次将他的名字挂上了。
@@ -198,7 +198,7 @@ Lenticular lenses 被翻译为了“双凸透镜”，而经过查阅资料，�
 论文已经找不到了，来张证书吧：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/EMCM_14.jpeg" alt="第十四届电工杯" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/EMCM_14.jpeg" alt="第十四届电工杯" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 冯是我的室友，我们共同完成了建模、算法、写作的工作。因为没得到他的允许，所以证书只保留了他的姓氏。
@@ -220,7 +220,7 @@ Lenticular lenses 被翻译为了“双凸透镜”，而经过查阅资料，�
 证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/CTF.jpeg" alt="CTF 新秀杯" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/CTF.jpeg" alt="CTF 新秀杯" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 [返回](../experience.md)

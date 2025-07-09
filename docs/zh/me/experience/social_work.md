@@ -30,7 +30,7 @@ hide:
 <span title="怎么是老规矩？因为我是时间倒叙写的啦~">老规矩</span>，来张证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/CUYMC.jpeg" alt="志愿者证书" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/social_work/CUYMC.jpeg" alt="志愿者证书" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## 世界科幻大会
@@ -42,7 +42,7 @@ hide:
 作为后备，我也拿到了证书：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/Worldcon.jpeg" alt="志愿者证书" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/social_work/Worldcon.jpeg" alt="志愿者证书" style="width: auto; height: 61.8vh;" loading="lazy">
 </div>
 
 ## 学生会（物理科学与技术学院）
@@ -65,7 +65,7 @@ hide:
 不知道放点儿啥，来张聘书吧：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/appointment_letter.jpeg" alt="聘书" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/social_work/appointment_letter.jpeg" alt="聘书" style="width: auto; height: 61.8vh;" loading="lazy">
 </div>
 
 ## 物理学院学生会赴四川省阿坝藏族羌族自治州汶川县映秀镇“喜迎二十大、永远跟党走、奋进新征程”主题实践队
@@ -77,7 +77,7 @@ hide:
 来一张实践队的合照：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/group_photo.jpeg" alt="实践队合照" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/social_work/group_photo.jpeg" alt="实践队合照" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 我那时候看起来真稚嫩。

@@ -19,7 +19,7 @@ hide:
 对比图：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/comparison_toyMC.jpeg" alt="重建结果对比图" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/comparison_toyMC.jpeg" alt="重建结果对比图" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 这里是简化的蒙特卡洛模拟程序的 GitHub 地址：<https://github.com/abwuge/capstoneProject>
@@ -33,11 +33,11 @@ hide:
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; align-items: flex-end; width: 61.8%; margin: 0 auto; gap: 2%;">
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/means.jpeg" alt="重建结果均值" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/means.jpeg" alt="重建结果均值" style="width: 100%; height: auto;" loading="lazy">
 <p>(a) 均值</p>
 </div>
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/errors.jpeg" alt="重建结果误差" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/errors.jpeg" alt="重建结果误差" style="width: 100%; height: auto;" loading="lazy">
 <p>(b) 分辨率</p>
 </div>
 </div>
@@ -73,13 +73,13 @@ _我可能会使用此成果发表一篇简单文章，但目前本人工作重�
 粒子的传播轨迹应当是：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/particle_trajectory.jpeg" alt="粒子传播轨迹草图" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/particle_trajectory.jpeg" alt="粒子传播轨迹草图" style="width: auto; height: 61.8vh;" loading="lazy">
 </div>
 
 这是一张最终模拟图：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/result.jpeg" alt="探测器分辨率结果图" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/result.jpeg" alt="探测器分辨率结果图" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 项目完成后，我将模拟代码上传至了 GitHub，地址为：<https://github.com/abwuge/sdiat>
@@ -130,7 +130,7 @@ _我可能会使用此成果发表一篇简单文章，但目前本人工作重�
 摆动过程就像这样：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2023/Eulers_Pendulum/euler_pendulum.jpeg" alt="欧拉摆运动示意图" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Eulers_Pendulum/euler_pendulum.jpeg" alt="欧拉摆运动示意图" style="width: auto; height: 61.8vh;" loading="lazy">
 <p>（如果摆在竖直方向上的角速度很大，以至于不再为两个接触点而是一个圆，则可以简单的假定一个等效接触点于圆心的上方——因为摆是规则的圆柱体）</p>
 </div>
 
@@ -147,7 +147,7 @@ _我可能会使用此成果发表一篇简单文章，但目前本人工作重�
 电路简图：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2023/Ball_on_Ferrite_Rod/circuit_diagram.jpeg" alt="同相放大电路图" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Ball_on_Ferrite_Rod/circuit_diagram.jpeg" alt="同相放大电路图" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ### Pancake Rotation （煎饼旋转）
@@ -159,7 +159,7 @@ _我可能会使用此成果发表一篇简单文章，但目前本人工作重�
 实验装置：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2023/Pancake_Rotation/experimental_apparatus.jpeg" alt="煎饼旋转实验装置" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Pancake_Rotation/experimental_apparatus.jpeg" alt="煎饼旋转实验装置" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## 2022 年 5 月 - 2023 年 5 月：水在磁场作用下性质的研究
@@ -195,7 +195,7 @@ _我可能会使用此成果发表一篇简单文章，但目前本人工作重�
 在本题的研究中，利用光杠杆原理，创新性地将磁铁对水面微弱的磁场作用可视化，定量分析了水面上漂浮物体的运动。
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Strange_Motion/experiment.jpeg" alt="磁场可视化实验" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Strange_Motion/experiment.jpeg" alt="磁场可视化实验" style="width: 61.8%; height: auto;" loading="lazy">
 <p>作图 熙</p>
 </div>
 
@@ -212,7 +212,7 @@ _我可能会使用此成果发表一篇简单文章，但目前本人工作重�
 #### 双凸透镜
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/convex_lens_group.jpeg" alt="双凸透镜组实验" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/convex_lens_group.jpeg" alt="双凸透镜组实验" style="width: 61.8%; height: auto;" loading="lazy">
 
 <p>
 图源哔哩哔哩 UP 主<a href="https://space.bilibili.com/630874464">冷科普</a>视频：<a href="https://www.bilibili.com/video/BV1Kq4y1r7AH">不可思议的“隐形透镜”，把手指放在镜片后，有趣的现象发生了</a>
@@ -239,11 +239,11 @@ _我可能会使用此成果发表一篇简单文章，但目前本人工作重�
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; align-items: flex-end; width: 61.8%; margin: 0 auto; gap: 2%;">
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_divergent_light.jpeg" alt="垂直于线方向，光线呈发散状态的截面图" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_divergent_light.jpeg" alt="垂直于线方向，光线呈发散状态的截面图" style="width: 100%; height: auto;" loading="lazy">
 <p>(a) 垂直于线方向</p>
 </div>
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_parallel_to_column_divergent_light.jpeg" alt="平行于线方向，光线呈发散状态的截面图" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_parallel_to_column_divergent_light.jpeg" alt="平行于线方向，光线呈发散状态的截面图" style="width: 100%; height: auto;" loading="lazy">
 <p>(b) 平行于线方向</p>
 </div>
 </div>
@@ -259,11 +259,11 @@ _我可能会使用此成果发表一篇简单文章，但目前本人工作重�
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; align-items: flex-end; width: 61.8%; margin: 0 auto; gap: 2%;">
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_parallel_light_wide.jpeg" alt="垂直于线方向，光线呈发散状态，光源宽的截面图" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_parallel_light_wide.jpeg" alt="垂直于线方向，光线呈发散状态，光源宽的截面图" style="width: 100%; height: auto;" loading="lazy">
 <p>(a) 宽物体</p>
 </div>
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_parallel_light_narrow.jpeg" alt="平行于线方向，光线呈平行状态，光源窄的截面图" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_parallel_light_narrow.jpeg" alt="平行于线方向，光线呈平行状态，光源窄的截面图" style="width: 100%; height: auto;" loading="lazy">
 <p>(b) 窄物体</p>
 </div>
 </div>

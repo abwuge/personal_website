@@ -28,11 +28,11 @@ Academic Transcript:
 Dual Certificates:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/education_background/certificate_of_bachelor_degree.jpeg" alt="Bachelor's Degree Certificate" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/education_background/certificate_of_bachelor_degree.jpeg" alt="Bachelor's Degree Certificate" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/education_background/undergraduate_diploma.jpeg" alt="Undergraduate Diploma" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/education_background/undergraduate_diploma.jpeg" alt="Undergraduate Diploma" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 PDF Certificates with Shell:

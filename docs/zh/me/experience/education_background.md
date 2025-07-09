@@ -28,11 +28,11 @@ hide:
 双证：
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/education_background/certificate_of_bachelor_degree.jpeg" alt="学士学位证书" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/education_background/certificate_of_bachelor_degree.jpeg" alt="学士学位证书" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/education_background/undergraduate_diploma.jpeg" alt="本科毕业证书" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/education_background/undergraduate_diploma.jpeg" alt="本科毕业证书" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 带外壳的PDF证书：

@@ -19,7 +19,7 @@ In this research, I first spent approximately 45 days understanding the structur
 Comparison chart:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/comparison_toyMC.jpeg" alt="Reconstruction Results Comparison" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/comparison_toyMC.jpeg" alt="Reconstruction Results Comparison" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 The GitHub repository for the simplified Monte Carlo simulation program is: <https://github.com/abwuge/capstoneProject>
@@ -33,11 +33,11 @@ This is the comparison chart, where ζ is the energy loss parameter, and ζ = 1 
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; align-items: flex-end; width: 61.8%; margin: 0 auto; gap: 2%;">
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/means.jpeg" alt="Reconstruction Results Mean" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/means.jpeg" alt="Reconstruction Results Mean" style="width: 100%; height: auto;" loading="lazy">
 <p>(a) Mean</p>
 </div>
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/errors.jpeg" alt="Reconstruction Results Error" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/Study_on_Nonlinear_Reconstruction_of_Particle_Velocity_for_AMS_Time-of-Flight_Detector/errors.jpeg" alt="Reconstruction Results Error" style="width: 100%; height: auto;" loading="lazy">
 <p>(b) Resolution</p>
 </div>
 </div>
@@ -73,13 +73,13 @@ The program starts from ideal conditions (detector without errors, particles wit
 The particle propagation trajectory should be:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/particle_trajectory.jpeg" alt="Particle Propagation Trajectory Sketch" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/particle_trajectory.jpeg" alt="Particle Propagation Trajectory Sketch" style="width: auto; height: 61.8vh;" loading="lazy">
 </div>
 
 This is a final simulation result:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/result.jpeg" alt="Detector Resolution Result" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/Particle_Propagation_and_Detection_Simulation/result.jpeg" alt="Detector Resolution Result" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 After completing the project, I uploaded the simulation code to GitHub at: <https://github.com/abwuge/sdiat>
@@ -130,7 +130,7 @@ Then the problem can be viewed as a multi-stage, fixed-contact-point, compound p
 The pendulum motion looks like this:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2023/Eulers_Pendulum/euler_pendulum.jpeg" alt="Euler's Pendulum Motion Diagram" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Eulers_Pendulum/euler_pendulum.jpeg" alt="Euler's Pendulum Motion Diagram" style="width: auto; height: 61.8vh;" loading="lazy">
 <p>(If the angular velocity of the pendulum in the vertical direction is so large that it is no longer two contact points but a circle, then one can simply assume an equivalent contact point above the center of the circle — because the pendulum is a regular cylinder)</p>
 </div>
 
@@ -147,7 +147,7 @@ In the experiment, due to the insufficient power of ordinary function generators
 Circuit diagram:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2023/Ball_on_Ferrite_Rod/circuit_diagram.jpeg" alt="Non-inverting Amplifier Circuit Diagram" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Ball_on_Ferrite_Rod/circuit_diagram.jpeg" alt="Non-inverting Amplifier Circuit Diagram" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ### Pancake Rotation
@@ -159,7 +159,7 @@ Unlike most teams that used ready-made vibration tables, I designed and built a 
 Experimental apparatus:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2023/Pancake_Rotation/experimental_apparatus.jpeg" alt="Pancake Rotation Experimental Apparatus" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2023/Pancake_Rotation/experimental_apparatus.jpeg" alt="Pancake Rotation Experimental Apparatus" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## May 2022 - May 2023: Research on Properties of Water Under Magnetic Field
@@ -195,7 +195,7 @@ The project was compiled using Visual Studio.
 In the research of this problem, using the principle of optical lever, I innovatively visualized the weak magnetic field effect of the magnet on the water surface and quantitatively analyzed the motion of floating objects on the water surface.
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Strange_Motion/experiment.jpeg" alt="Magnetic field visualization experiment" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Strange_Motion/experiment.jpeg" alt="Magnetic field visualization experiment" style="width: 61.8%; height: auto;" loading="lazy">
 <p>Drawing by Xi</p>
 </div>
 
@@ -212,7 +212,7 @@ The experiments using convex lens groups and lenticular lenses are briefly intro
 #### Convex Lens Group
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/convex_lens_group.jpeg" alt="Convex Lens Group Experiment" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/convex_lens_group.jpeg" alt="Convex Lens Group Experiment" style="width: 61.8%; height: auto;" loading="lazy">
 
 <p>
 Image source: Bilibili UP master <a href="https://space.bilibili.com/630874464">冷科普</a> video: <a href="https://www.bilibili.com/video/BV1Kq4y1r7AH">不可思议的“隐形透镜”，把手指放在镜片后，有趣的现象发生了</a> (Incredible "Invisible Lens", Put Your Finger Behind the Lens, Interesting Phenomena Happen)
@@ -239,11 +239,11 @@ By orthogonally decomposing light rays, the light propagation situation can be a
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; align-items: flex-end; width: 61.8%; margin: 0 auto; gap: 2%;">
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_divergent_light.jpeg" alt="Cross-section perpendicular to the line direction, with divergent light rays" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_divergent_light.jpeg" alt="Cross-section perpendicular to the line direction, with divergent light rays" style="width: 100%; height: auto;" loading="lazy">
 <p>(a) Perpendicular to line direction</p>
 </div>
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_parallel_to_column_divergent_light.jpeg" alt="Cross-section parallel to the line direction, with divergent light rays" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_parallel_to_column_divergent_light.jpeg" alt="Cross-section parallel to the line direction, with divergent light rays" style="width: 100%; height: auto;" loading="lazy">
 <p>(b) Parallel to line direction</p>
 </div>
 </div>
@@ -259,11 +259,11 @@ Focus on analyzing the perpendicular cross-section:
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; align-items: flex-end; width: 61.8%; margin: 0 auto; gap: 2%;">
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_parallel_light_wide.jpeg" alt="Cross-section perpendicular to the line direction, with divergent light rays, wide light source" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_parallel_light_wide.jpeg" alt="Cross-section perpendicular to the line direction, with divergent light rays, wide light source" style="width: 100%; height: auto;" loading="lazy">
 <p>(a) Wide object</p>
 </div>
 <div style="width: 49%;">
-<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_parallel_light_narrow.jpeg" alt="Cross-section parallel to the line direction, with parallel light rays, narrow light source" style="width: 100%; height: auto;">
+<img src="../../../../assets/me/experience/research_experience/CUPT2022/Invisibility/cross_section_perpendicular_to_column_parallel_light_narrow.jpeg" alt="Cross-section parallel to the line direction, with parallel light rays, narrow light source" style="width: 100%; height: auto;" loading="lazy">
 <p>(b) Narrow object</p>
 </div>
 </div>

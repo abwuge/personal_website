@@ -32,7 +32,7 @@ This was also what the judges often asked: How much does it cost? How many peopl
 <span title="Why the usual routine? Because I'm writing in reverse chronological order ~">Same as always</span>, here's a certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/CUYMC.jpeg" alt="Volunteer Certificate" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/social_work/CUYMC.jpeg" alt="Volunteer Certificate" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## World Science Fiction Convention
@@ -44,7 +44,7 @@ Well, well, well, this is my most low-key volunteer experience.
 As a backup, I also got a certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/Worldcon.jpeg" alt="Volunteer Certificate" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/social_work/Worldcon.jpeg" alt="Volunteer Certificate" style="width: auto; height: 61.8vh;" loading="lazy">
 </div>
 
 ## Student Union (School of Physical Science and Technology)
@@ -65,7 +65,7 @@ As department head, I was mainly responsible for organizing second classroom act
 I don't know what to put here, so here's an appointment letter:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/appointment_letter.jpeg" alt="Appointment Letter" style="width: auto; height: 61.8vh;">
+<img src="../../../../assets/me/experience/social_work/appointment_letter.jpeg" alt="Appointment Letter" style="width: auto; height: 61.8vh;" loading="lazy">
 </div>
 
 ## Practice Team "Embrace the 20th CPC National Congress, Stay True to the Party, and Stride Forward into a New Era" from School of Physics Student Union to Yingxiu Town, Wenchuan County, Aba Tibetan and Qiang Autonomous Prefecture, Sichuan Province
@@ -77,7 +77,7 @@ This was a "College Students' Summer Rural Service Program" practice activity du
 Here's a group photo of the practice team:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/social_work/group_photo.jpeg" alt="Practice Team Group Photo" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/social_work/group_photo.jpeg" alt="Practice Team Group Photo" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 I looked really young back then.

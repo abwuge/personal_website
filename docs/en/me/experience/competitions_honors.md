@@ -17,7 +17,7 @@ I didn't expect to be able to apply for Excellent Graduate, considering my GPA i
 Certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/excellent_graduate.jpeg" alt="Excellent Graduate 2024 - 2025" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/excellent_graduate.jpeg" alt="Excellent Graduate 2024 - 2025" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## National Encouragement Scholarship
@@ -29,7 +29,7 @@ I applied for the Encouragement Scholarship for three years, <span title="This y
 Certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/national_encouragement_scholarship.jpeg" alt="National Encouragement Scholarship 2023 - 2024" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/national_encouragement_scholarship.jpeg" alt="National Encouragement Scholarship 2023 - 2024" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## Lanqiao Cup National Software and Information Technology Professional Talent Competition (Software Category)
@@ -46,11 +46,11 @@ Unfortunately, after the provincial competition, I felt I couldn't qualify for t
 No more words, here are the certificates:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/lanqiao_national_15.jpeg" alt="15th Lanqiao Cup National Finals" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/lanqiao_national_15.jpeg" alt="15th Lanqiao Cup National Finals" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/lanqiao_sichuan_15.jpeg" alt="15th Lanqiao Cup Provincial Competition" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/lanqiao_sichuan_15.jpeg" alt="15th Lanqiao Cup Provincial Competition" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## Institute of High Energy Physics, Chinese Academy of Sciences Talent Scholarship
@@ -60,7 +60,7 @@ No more words, here are the certificates:
 Certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/IHEP_scholarship.jpeg" alt="Institute of High Energy Physics, Chinese Academy of Sciences Talent Scholarship" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/IHEP_scholarship.jpeg" alt="Institute of High Energy Physics, Chinese Academy of Sciences Talent Scholarship" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## Comprehensive Scholarship (Southwest Jiaotong University)
@@ -70,7 +70,7 @@ Certificate:
 Certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/comprehensive_scholarship_2023.jpeg" alt="Comprehensive Scholarship 2022 - 2023" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/comprehensive_scholarship_2023.jpeg" alt="Comprehensive Scholarship 2022 - 2023" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## Chinese Undergraduate Physics Tournament
@@ -86,7 +86,7 @@ This edition was hosted by Southwest Jiaotong University, so our school had two 
 Certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/CUPT_14.jpeg" alt="14th Chinese Undergraduate Physics Tournament" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/CUPT_14.jpeg" alt="14th Chinese Undergraduate Physics Tournament" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## Southwest Undergraduate Physics Tournament
@@ -105,7 +105,7 @@ To be honest, due to the experience from the previous edition, I wasn't very ent
 Certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/SWUPT_7.jpeg" alt="7th Southwest Undergraduate Physics Tournament" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/SWUPT_7.jpeg" alt="7th Southwest Undergraduate Physics Tournament" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ### 6th Edition
@@ -123,7 +123,7 @@ This would have been acceptable, but during the actual competition, the opposing
 Certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/SWUPT_6.jpeg" alt="6th Southwest Undergraduate Physics Tournament" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/SWUPT_6.jpeg" alt="6th Southwest Undergraduate Physics Tournament" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ### Postscript
@@ -141,15 +141,15 @@ I have always served as the class committee member in charge of organization, an
 Certificates:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2024.jpeg" alt="Excellent Student Cadre 2023 - 2024" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2024.jpeg" alt="Excellent Student Cadre 2023 - 2024" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2023.jpeg" alt="Excellent Student Cadre 2022 - 2023" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2023.jpeg" alt="Excellent Student Cadre 2022 - 2023" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2022.jpeg" alt="Excellent Student Cadre 2021 - 2022" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/excellent_student_cadre_2022.jpeg" alt="Excellent Student Cadre 2021 - 2022" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 ## National University Students Electrical Math Modeling Competition
@@ -186,7 +186,7 @@ Due to my grandfather's funeral and participating almost individually, this comp
 Fortunately, I won third prize:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/EMCM_16.jpeg" alt="16th Electrical Engineering Cup" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/EMCM_16.jpeg" alt="16th Electrical Engineering Cup" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 康 (Kang) is a sophomore from Class of 2022, <span title="Then I wasn't satisfied and deleted everything to rewrite it. So this competition wasn't 'almost' individual participation, it was 100% individual participation (exhausting)">she helped me write the problem restatement section of the paper</span>; I don't know 余 (Yu), but because I had him pay the participation fee for the May Day Cup and I didn't win, I put his name on this time.
@@ -198,7 +198,7 @@ I participated in this edition during my freshman year, working on Problem B: [5
 I can't find the paper anymore, so here's the certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/EMCM_14.jpeg" alt="14th Electrical Engineering Cup" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/EMCM_14.jpeg" alt="14th Electrical Engineering Cup" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 冯 (Feng) is my roommate, and we completed the modeling, algorithm, and writing work together. Since I didn't get his permission, I only kept his surname on the certificate.
@@ -220,7 +220,7 @@ I only remember it was a problem about SQL injection.
 Certificate:
 
 <div style="text-align: center;">
-<img src="../../../../assets/me/experience/competitions_honors/CTF.jpeg" alt="CTF Rookie Cup" style="width: 61.8%; height: auto;">
+<img src="../../../../assets/me/experience/competitions_honors/CTF.jpeg" alt="CTF Rookie Cup" style="width: 61.8%; height: auto;" loading="lazy">
 </div>
 
 [Back](../experience.md)
