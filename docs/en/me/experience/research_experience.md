@@ -58,6 +58,8 @@ Here is the PDF version with signatures removed:
      data-preview-button-text="Preview Thesis">
 </div>
 
+_I may use this achievement to publish a simple article, but currently, my focus is on studying abroad applications and postgraduate entrance examinations._
+
 ## July 2024: Particle Propagation and Detection Simulation
 
 > > Shandong Institute of Advanced Technology Summer Camp.
