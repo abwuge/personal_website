@@ -70,6 +70,7 @@ plugins:
           nav:
             - 我:
                 - me/index.md
+                - me/curriculum_vitae.md
                 - me/personal_information.md
                 - me/experience.md
         - name: English
@@ -79,5 +80,6 @@ plugins:
           nav:
             - Me:
                 - me/index.md
+                - me/curriculum_vitae.md
                 - me/personal_information.md
                 - me/experience.md
