@@ -1,2 +1,2 @@
 mkdocs-material
-git+https://github.com/abwuge/mkdocs-material-i18n.git
+git+ssh://git@github.com/abwuge/mkdocs-material-i18n.git
